@@ -320,7 +320,7 @@ class APIItem(BaseModel):
 
 class APIResponseSuccess(BaseModel):
     model_config = ConfigDict(
-        extra = 'forbid',
+        extra = 'ignore', # was forbid before
         alias_generator=alias_generators.to_camel,
         populate_by_name=True
     )

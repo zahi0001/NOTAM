@@ -93,8 +93,13 @@ def main():
     sorter = NotamSorter(notams)
 
     sorted_notams = sorter.sort_by_score()
-    printer = NotamPrinter(max_lines=3)
-    printer.print_notams(sorted_notams)
+    # printer = NotamPrinter(max_lines=3)
+    # printer.print_notams(sorted_notams)
+
+    # Replace with:
+    printer = NotamPrinter()
+    output_file = printer.save_to_file(sorted_notams, filepath="fetchedNotams.txt")
+    logger.info(f"Saved {len(sorted_notams)} NOTAMs to {output_file}")
 
 if __name__ == "__main__":
     main()

@@ -1,6 +1,18 @@
 
 from airport_data.types import Airport
 
+EXCLUDED_TIMEZONES = [
+    "America/Anchorage", "America/Juneau", "America/Sitka",
+    "America/Metlakatla", "America/Yakutat", "America/Nome",
+    "America/Adak", "Pacific/Honolulu"
+]
+
+EXCLUDED_REGION_CODES = [
+    "America/Puerto_Rico", "Pacific/Guam", "Pacific/Pago_Pago",
+    "Pacific/Saipan"
+]
+
+
 '''
 Airport Code Validator Component
 
@@ -20,9 +32,8 @@ class AirportCodeValidator:
             True: Valid Continental United States airport
             False: Airport outside Continental United States.
         """
-
-
-        if airport.country != "US":
+        if airport.country != "United States":
             return False
-        
-        return airport.state_name not in ["HAWAII", "ALASKA", "PUERTO RICO", "GUAM", "AMERICAN SAMOA", "N MARIANA ISLANDS", "PUERTO RICO-VIRGIN ISLANDS"]
+        if airport.tz_name in EXCLUDED_TIMEZONES + EXCLUDED_REGION_CODES:
+            return False
+        return True

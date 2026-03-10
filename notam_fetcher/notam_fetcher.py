@@ -137,12 +137,20 @@ class NotamFetcher:
                     time.sleep(min(time_to_sleep, time_until_timeout)) # Don't sleep past the timeout
             raise NotamFetcherTimeoutReached
         
-        with ThreadPoolExecutor(max_workers=30) as executor:
+        # with ThreadPoolExecutor(max_workers=30) as executor:
+        #     for lat, long in waypoints:
+        #         self.logger.info(f"Fetching NOTAMs at ({lat}, {long})")
+        #         future = executor.submit(_fetch_notams_with_timeout, lat, long, radius)
+        #         future.add_done_callback(on_complete(lat, long))
+        #         futures.append(future)
+
+        with ThreadPoolExecutor(max_workers=5) as executor:
             for lat, long in waypoints:
                 self.logger.info(f"Fetching NOTAMs at ({lat}, {long})")
                 future = executor.submit(_fetch_notams_with_timeout, lat, long, radius)
                 future.add_done_callback(on_complete(lat, long))
                 futures.append(future)
+                time.sleep(0.1)  # 100ms stagger between submissions
 
         all_notams: list[CoreNOTAMData] = []
         seen_notams: set[str] = set()

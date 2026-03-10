@@ -127,3 +127,17 @@ class NotamPrinter:
             console.print(self.print_notam(notam))
             console.print(self.print_separator())
 
+    def save_to_file(self, notams: List[Notam], filepath: str = "fetchedNotams.txt"):
+        """
+        Saves all NOTAMs to a text file with full fields, clearly separated.
+        Each NOTAM block is separated by '=' * 80 for easy downstream parsing.
+        """
+        SEPARATOR = "=" * 80
+
+        with open(filepath, "w", encoding="utf-8") as f:
+            for notam in notams:
+                f.write(self.print_all_notam_fields(notam) + "\n")
+                f.write(SEPARATOR + "\n")
+
+        return filepath
+

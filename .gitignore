@@ -3,6 +3,7 @@
 /scripts/schema-generation/schema.json
 /scripts/schema-generation/quicktype_input.json
 /scripts/schema-generation/model_new_generated.py
+/NOTAM_venv
 
 # Ignore logs generated while running
 output.log
