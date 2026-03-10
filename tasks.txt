@@ -21,3 +21,9 @@
 - CAP03 [x]: Install dependencies needed. Python-Version => 3.11.13 (why? it just makes sense for the combination of libraries needed.)
 - CAP04 [x]: High level understanding of the ML features (Details are figured out as we go!)
 - CAP05 [x]: Confirm I have enough data, and I have them properly set up and ready for label generator.
+- CAP06 [ ]: Label Generator (Big one) (ideally no class is less than 5% of total, equal distribution)
+    - CAP06.1 [ ]: label_generator.py written and tested
+    - CAP06.2 [ ]: 01_label_generation.ipynb complete
+    - CAP06.3 [ ]: Prompt Tuning by label quality checking manually and reading ~20 NOTAMs and verifying the LLM labels make sense.
+
+

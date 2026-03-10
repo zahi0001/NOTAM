@@ -38,3 +38,4 @@ joblib
 jupyter
 python-dotenv
 requests
+aiohttp

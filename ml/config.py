@@ -33,7 +33,7 @@ RAW_FILES = {
 # Pipeline output files
 # ---------------------------------------------------------------------------
 
-MERGED_FILE         = DATA_DIR / "merged_notams.txt"        # output of data_loader.py
+MERGED_FILE         = RAW_DIR / "merged_notams.txt"        # output of data_loader.py
 LABELED_CSV         = LABELED_DIR / "notams_labeled.csv"    # output of label_generator.py
 NLP_CACHE_FILE      = LABELED_DIR / "nlp_cache.json"        # LLM cache so we don't re-score
 
