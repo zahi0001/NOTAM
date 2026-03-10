@@ -1,2 +1,21 @@
 - [ CAP01 ]: Set up the repository and run the code locally to make sure the code runs.
-- [  ]
+- [ CAP02 ]: Repository structure. Make the necessary folders like this:
+                        ml/
+                            __init__.py
+                            label_generator.py      ← cleaned-up LLM scorer
+                            features.py             ← TF-IDF and embedding logic
+                            classifier.py           ← Layer 1 & 2 models
+                            anomaly.py              ← Layer 3
+                            evaluate.py             ← shared metrics/plotting
+                            config.py               ← all constants in one place
+                        notebooks/
+                            01_label_generation.ipynb
+                            02_eda.ipynb
+                            03_model_training.ipynb
+                            04_anomaly_detection.ipynb
+                        data/
+                            raw/                    ← your fetchedNotams.txt goes here
+                            labeled/                ← LLM-generated labels land here
+                            models/                 ← saved trained models
+
+- [ CAP03 ]:
