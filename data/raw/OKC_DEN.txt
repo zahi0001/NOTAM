@@ -12,20 +12,6 @@ Last Updated: 2025-12-29 15:29:00+00:00
 ICAO Location: KTIK
 Text: 552 ACW RAMP SOUTH EDGE RAMP LIGHTS O/S
 ================================================================================
-ID: NOTAM_1_79670999
-Number: M0082/26
-Type: NotamType.R
-Issued: 2026-01-26 05:02:00+00:00
-Selection Code: QMXLC
-Location: TIK
-Effective Start: 2026-01-26 05:02:00+00:00
-Effective End: 2026-04-24 23:59:00+00:00
-Classification: Classification.MIL
-Account ID: KTIK
-Last Updated: 2026-01-26 05:02:00+00:00
-ICAO Location: KTIK
-Text: TWY M CLSD
-================================================================================
 ID: NOTAM_1_79671025
 Number: M0083/26
 Type: NotamType.R
@@ -278,6 +264,20 @@ Last Updated: 2026-03-03 17:40:00+00:00
 ICAO Location: KTIK
 Text: 507 ARW RAMP CONST AREA - PARKING SPOT C-3 AND EAST TAXILANE BEHIND SPOT C-3 CLOSED. ACFT PARKING ON C-1 OR C-2 MAY TAXI SOUTH ON CENTER TAXILANE AND BE PUSHED BACK INTO SPOTS OR TAXI THROUGH ADJACENT PARKING SPOT IF VACANT.
 ================================================================================
+ID: NOTAM_1_80326038
+Number: M0186/26
+Type: NotamType.N
+Issued: 2026-03-09 20:04:00+00:00
+Selection Code: QMXLC
+Location: TIK
+Effective Start: 2026-03-10 12:00:00+00:00
+Effective End: 2026-03-10 18:00:00+00:00
+Classification: Classification.MIL
+Account ID: KTIK
+Last Updated: 2026-03-09 20:04:00+00:00
+ICAO Location: KTIK
+Text: TWY G CLSD BTWN TWY B AND RWY 13/31.
+================================================================================
 ID: NOTAM_1_80258004
 Number: M0131/26
 Type: NotamType.N
@@ -306,6 +306,34 @@ Last Updated: 2026-03-04 13:03:00+00:00
 ICAO Location: KBKF
 Text: OBST 82 FT CRANE 3238 FT NORTHWEST OF RWY 14 OVERRUN
 ================================================================================
+ID: NOTAM_1_80324275
+Number: A0443/26
+Type: NotamType.N
+Issued: 2026-03-09 17:15:00+00:00
+Selection Code: QMRLC
+Location: OKC
+Effective Start: 2026-03-10 15:30:00+00:00
+Effective End: 2026-03-10 21:00:00+00:00
+Classification: Classification.INTL
+Account ID: KOKC
+Last Updated: 2026-03-09 17:16:00+00:00
+ICAO Location: KOKC
+Text: OKC RWY 18/36 CLSD EXC XNG
+================================================================================
+ID: NOTAM_1_80326214
+Number: A0446/26
+Type: NotamType.N
+Issued: 2026-03-09 20:22:00+00:00
+Selection Code: QMRLC
+Location: OKC
+Effective Start: 2026-03-10 13:30:00+00:00
+Effective End: 2026-03-10 19:30:00+00:00
+Classification: Classification.INTL
+Account ID: KOKC
+Last Updated: 2026-03-09 20:23:00+00:00
+ICAO Location: KOKC
+Text: OKC RWY 17L/35R CLSD EXC XNG
+================================================================================
 ID: NOTAM_1_80297185
 Number: 03/170
 Type: NotamType.N
@@ -320,23 +348,42 @@ Last Updated: 2026-03-06 22:52:00+00:00
 ICAO Location: KDEN
 Text: TWY Z4 SAFETY AREA NOT STD W EDGE
 ================================================================================
-ID: NOTAM_1_80286370
-Number: A1719/26
+ID: NOTAM_1_80323540
+Number: A0441/26
 Type: NotamType.C
-Issued: 2026-03-06 10:30:00+00:00
+Issued: 2026-03-09 16:12:00+00:00
 Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-06 10:30:00+00:00
-Effective End: 2026-03-09 10:30:00+00:00
+Location: OKC
+Effective Start: 2026-03-09 16:12:00+00:00
+Effective End: 2026-03-12 16:12:00+00:00
 Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 10:30:00+00:00
-ICAO Location: KDEN
-Text: A1719/26 NOTAMC A1715/26 
-Q) KZDV/QMRXX/IV/NBO/A/000/999/3952N10440W005 
-A) KDEN
-B) 2603061030
-E)  DEN RWY 08/26 CLSD
+Account ID: KOKC
+Last Updated: 2026-03-09 16:12:00+00:00
+ICAO Location: KOKC
+Text: A0441/26 NOTAMC A0440/26 
+Q) KZFW/QMRXX/IV/NBO/A/000/999/3524N09736W005 
+A) KOKC
+B) 2603091612
+E)  OKC RWY 17R/35L CLSD EXC XNG AND TAX
+CANCELED
+================================================================================
+ID: NOTAM_1_80325930
+Number: A0445/26
+Type: NotamType.C
+Issued: 2026-03-09 19:52:00+00:00
+Selection Code: QMRXX
+Location: OKC
+Effective Start: 2026-03-09 19:52:00+00:00
+Effective End: 2026-03-12 19:52:00+00:00
+Classification: Classification.INTL
+Account ID: KOKC
+Last Updated: 2026-03-09 19:52:00+00:00
+ICAO Location: KOKC
+Text: A0445/26 NOTAMC A0442/26 
+Q) KZFW/QMRXX/IV/NBO/A/000/999/3524N09736W005 
+A) KOKC
+B) 2603091952
+E)  OKC RWY 17R/35L CLSD EXC XNG AND TAX
 CANCELED
 ================================================================================
 ID: NOTAM_1_80303285
@@ -529,6 +576,25 @@ B) 2603080952
 E)  DEN RWY 17L/35R CLSD
 CANCELED
 ================================================================================
+ID: NOTAM_1_80318667
+Number: A1944/26
+Type: NotamType.C
+Issued: 2026-03-09 09:53:00+00:00
+Selection Code: QMRXX
+Location: DEN
+Effective Start: 2026-03-09 09:53:00+00:00
+Effective End: 2026-03-12 09:53:00+00:00
+Classification: Classification.INTL
+Account ID: KDEN
+Last Updated: 2026-03-09 09:53:00+00:00
+ICAO Location: KDEN
+Text: A1944/26 NOTAMC A1938/26 
+Q) KZDV/QMRXX/IV/NBO/A/000/999/3952N10440W005 
+A) KDEN
+B) 2603090953
+E)  DEN RWY 16L/34R CLSD
+CANCELED
+================================================================================
 ID: NOTAM_1_78473026
 Number: V0089/25
 Type: NotamType.N
@@ -629,17 +695,17 @@ Text: RWY 18/36 EDGE LGT
  UNSERVICEABLE 
  LESS THAN 85% EDGE LIGHTING OPERATIONAL
 ================================================================================
-ID: NOTAM_1_80280151
-Number: A0224/26
+ID: NOTAM_1_80319750
+Number: A0234/26
 Type: NotamType.N
-Issued: 2026-03-05 22:45:00+00:00
+Issued: 2026-03-09 11:51:00+00:00
 Selection Code: QSPLC
 Location: ZFW
-Effective Start: 2026-03-09 11:00:00+00:00
-Effective End: 2026-03-09 12:30:00+00:00
+Effective Start: 2026-03-10 11:00:00+00:00
+Effective End: 2026-03-10 12:30:00+00:00
 Classification: Classification.INTL
 Account ID: KZFW
-Last Updated: 2026-03-05 22:46:00+00:00
+Last Updated: 2026-03-09 11:51:00+00:00
 ICAO Location: KZFW
 Text: ZFW SVC SHEPPARD APP CLSD
 ================================================================================
@@ -671,6 +737,20 @@ Last Updated: 2025-12-21 08:20:00+00:00
 ICAO Location: KOKC
 Text: OKC TWY A BTN TWY A4 AND TWY A6 CLSD TO ACFT WINGSPAN MORE THAN
 118FT
+================================================================================
+ID: NOTAM_1_80324280
+Number: A0444/26
+Type: NotamType.N
+Issued: 2026-03-09 17:16:00+00:00
+Selection Code: QMXLC
+Location: OKC
+Effective Start: 2026-03-10 15:30:00+00:00
+Effective End: 2026-03-10 21:00:00+00:00
+Classification: Classification.INTL
+Account ID: KOKC
+Last Updated: 2026-03-09 17:16:00+00:00
+ICAO Location: KOKC
+Text: OKC TWY B BTN APCH END RWY 18 AND APCH END RWY 35L CLSD
 ================================================================================
 ID: NOTAM_1_78122362
 Number: A2154/25
@@ -757,6 +837,20 @@ Account ID: KTIK
 Last Updated: 2026-02-02 16:58:00+00:00
 ICAO Location: KTIK
 Text: TWY H TWY DIRECTION SIGN NOT LGTD BTN TWY J AND TWY G
+================================================================================
+ID: NOTAM_1_80328152
+Number: 03/002
+Type: NotamType.N
+Issued: 2026-03-10 01:01:00+00:00
+Selection Code: QOLAS
+Location: OUN
+Effective Start: 2026-03-10 01:01:00+00:00
+Effective End: 2026-04-24 01:01:00+00:00
+Classification: Classification.DOM
+Account ID: OUN
+Last Updated: 2026-03-10 01:01:00+00:00
+ICAO Location: KOUN
+Text: OBST TOWER LGT (ASR 1012599) 351723.00N0973009.00W (3.0NM NNW OUN) 1575.1FT (390.1FT AGL) U/S
 ================================================================================
 ID: NOTAM_1_80233901
 Number: 03/034
@@ -948,44 +1042,6 @@ ICAO Location: KDEN
 Text: DEN OBST CRANE (ASN 2023-ANM-4813-NRA) 395033N1044025W (1.2NM S
 DEN) 5414FT (40FT AGL) FLAGGED
 ================================================================================
-ID: NOTAM_1_80293446
-Number: A0566/26
-Type: NotamType.C
-Issued: 2026-03-06 17:43:00+00:00
-Selection Code: QMXXX
-Location: BJC
-Effective Start: 2026-03-06 17:43:00+00:00
-Effective End: 2026-03-09 17:43:00+00:00
-Classification: Classification.INTL
-Account ID: KBJC
-Last Updated: 2026-03-06 17:43:00+00:00
-ICAO Location: KBJC
-Text: A0566/26 NOTAMC A0559/26 
-Q) KZDV/QMXXX/IV/BO/A/000/999/3955N10507W005 
-A) KBJC
-B) 2603061743
-E)  BJC TWY A2, A3, A4, A5, A6 CLSD
-CANCELED
-================================================================================
-ID: NOTAM_1_80293622
-Number: A1762/26
-Type: NotamType.C
-Issued: 2026-03-06 17:54:00+00:00
-Selection Code: QMXXX
-Location: DEN
-Effective Start: 2026-03-06 17:54:00+00:00
-Effective End: 2026-03-09 17:54:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 17:55:00+00:00
-ICAO Location: KDEN
-Text: A1762/26 NOTAMC A1758/26 
-Q) KZDV/QMXXX/IV/BO/A/000/999/3952N10440W005 
-A) KDEN
-B) 2603061754
-E)  DEN TWY G BTN TWY CN AND TWY CS CLSD
-CANCELED
-================================================================================
 ID: NOTAM_1_80303269
 Number: A1013/26
 Type: NotamType.C
@@ -1174,6 +1230,25 @@ Q) KZDV/QMXXX/IV/BO/A/000/999/3955N10507W005
 A) KBJC
 B) 2603071843
 E)  BJC TWY B1, B2, B3, C1, TWY B BTN TWY B1 AND TWY A CLSD
+CANCELED
+================================================================================
+ID: NOTAM_1_80318668
+Number: A1945/26
+Type: NotamType.C
+Issued: 2026-03-09 09:53:00+00:00
+Selection Code: QMXXX
+Location: DEN
+Effective Start: 2026-03-09 09:53:00+00:00
+Effective End: 2026-03-12 09:53:00+00:00
+Classification: Classification.INTL
+Account ID: KDEN
+Last Updated: 2026-03-09 09:54:00+00:00
+ICAO Location: KDEN
+Text: A1945/26 NOTAMC A1936/26 
+Q) KZDV/QMXXX/IV/BO/A/000/999/3952N10440W005 
+A) KDEN
+B) 2603090953
+E)  DEN TWY CN BTN TWY J AND GATE C39 CLSD
 CANCELED
 ================================================================================
 ID: NOTAM_1_78907862
@@ -4673,20 +4748,6 @@ Last Updated: 2026-03-05 21:07:00+00:00
 ICAO Location: KZKC
 Text: AIRSPACE UAS WI AN AREA DEFINED AS 1.4NM RADIUS OF 381214N0895046W (7.1NM NW SAR) SFC-225FT AGL
 ================================================================================
-ID: NOTAM_1_80280060
-Number: 03/141
-Type: NotamType.N
-Issued: 2026-03-05 22:35:00+00:00
-Selection Code: None
-Location: ZFW
-Effective Start: 2026-03-09 11:00:00+00:00
-Effective End: 2026-03-09 12:30:00+00:00
-Classification: Classification.DOM
-Account ID: FTW
-Last Updated: 2026-03-05 22:46:00+00:00
-ICAO Location: KZFW
-Text: SVC SHEPPARD APP CLSD
-================================================================================
 ID: NOTAM_1_80280086
 Number: 03/142
 Type: NotamType.N
@@ -4728,20 +4789,6 @@ Account ID: FTW
 Last Updated: 2026-03-06 14:27:00+00:00
 ICAO Location: KZFW
 Text: AIRSPACE UAS WI AN AREA DEFINED AS 4NM RADIUS OF 312534N1014920W (13.3NM NE 49F) SFC-400FT AGL
-================================================================================
-ID: NOTAM_1_80291027
-Number: 03/003
-Type: NotamType.N
-Issued: 2026-03-06 15:29:00+00:00
-Selection Code: None
-Location: RQO
-Effective Start: 2026-03-06 15:23:00+00:00
-Effective End: 2026-05-06 23:59:00+00:00
-Classification: Classification.DOM
-Account ID: RQO
-Last Updated: 2026-03-06 15:29:00+00:00
-ICAO Location: KRQO
-Text: OBST TOWER LGT (ASR 1262798) 352405.10N0975635.00W (5.3NM SE RQO) 1598.1FT (254.9FT AGL) U/S
 ================================================================================
 ID: NOTAM_1_80294528
 Number: 03/164
@@ -4799,104 +4846,6 @@ Last Updated: 2026-03-06 19:35:00+00:00
 ICAO Location: KZFW
 Text: AIRSPACE UAS WI AN AREA DEFINED AS 3NM RADIUS OF INK115023 SFC-200FT AGL
 ================================================================================
-ID: NOTAM_1_80300322
-Number: 03/062
-Type: NotamType.N
-Issued: 2026-03-07 06:05:00+00:00
-Selection Code: QRRCA
-Location: ZKC
-Effective Start: 2026-03-08 06:01:00+00:00
-Effective End: 2026-03-09 06:00:00+00:00
-Classification: Classification.DOM
-Account ID: SUAC
-Last Updated: 2026-03-07 06:06:00+00:00
-ICAO Location: KZKC
-Text: AIRSPACE R4501H ACT SFC-3200FT
-================================================================================
-ID: NOTAM_1_80303920
-Number: 03/127
-Type: NotamType.N
-Issued: 2026-03-07 14:25:00+00:00
-Selection Code: None
-Location: ZKC
-Effective Start: 2026-03-09 14:20:00+00:00
-Effective End: 2026-03-09 15:20:00+00:00
-Classification: Classification.DOM
-Account ID: SUAC
-Last Updated: 2026-03-07 14:26:00+00:00
-ICAO Location: KZKC
-Text: AIRSPACE DRIFTER MOA ACT 10000FT UP TO BUT NOT INCLUDING FL180
-================================================================================
-ID: NOTAM_1_80303921
-Number: 03/128
-Type: NotamType.N
-Issued: 2026-03-07 14:26:00+00:00
-Selection Code: None
-Location: ZKC
-Effective Start: 2026-03-09 14:20:00+00:00
-Effective End: 2026-03-09 15:20:00+00:00
-Classification: Classification.DOM
-Account ID: SUAC
-Last Updated: 2026-03-07 14:26:00+00:00
-ICAO Location: KZKC
-Text: AIRSPACE HIGH PLAINS MOA ACT 10000FT UP TO BUT NOT INCLUDING FL180
-================================================================================
-ID: NOTAM_1_80303922
-Number: 03/129
-Type: NotamType.N
-Issued: 2026-03-07 14:26:00+00:00
-Selection Code: None
-Location: ZKC
-Effective Start: 2026-03-09 14:20:00+00:00
-Effective End: 2026-03-09 15:20:00+00:00
-Classification: Classification.DOM
-Account ID: SUAC
-Last Updated: 2026-03-07 14:26:00+00:00
-ICAO Location: KZKC
-Text: AIRSPACE TWISTER MOA ACT 10000FT UP TO BUT NOT INCLUDING FL180
-================================================================================
-ID: NOTAM_1_80307997
-Number: 03/149
-Type: NotamType.N
-Issued: 2026-03-07 23:05:00+00:00
-Selection Code: QRRCA
-Location: ZKC
-Effective Start: 2026-03-08 23:00:00+00:00
-Effective End: 2026-03-09 06:00:00+00:00
-Classification: Classification.DOM
-Account ID: SUAC
-Last Updated: 2026-03-07 23:06:00+00:00
-ICAO Location: KZKC
-Text: AIRSPACE R4501F ACT SFC-3200FT
-================================================================================
-ID: NOTAM_1_80308436
-Number: 03/153
-Type: NotamType.N
-Issued: 2026-03-08 00:06:00+00:00
-Selection Code: QRRCA
-Location: ZKC
-Effective Start: 2026-03-08 06:01:00+00:00
-Effective End: 2026-03-09 06:00:00+00:00
-Classification: Classification.DOM
-Account ID: SUAC
-Last Updated: 2026-03-08 00:06:00+00:00
-ICAO Location: KZKC
-Text: AIRSPACE R4501A ACT SFC-2199FT
-================================================================================
-ID: NOTAM_1_80308437
-Number: 03/154
-Type: NotamType.N
-Issued: 2026-03-08 00:06:00+00:00
-Selection Code: QRRCA
-Location: ZKC
-Effective Start: 2026-03-08 06:01:00+00:00
-Effective End: 2026-03-09 06:00:00+00:00
-Classification: Classification.DOM
-Account ID: SUAC
-Last Updated: 2026-03-08 00:06:00+00:00
-ICAO Location: KZKC
-Text: AIRSPACE R4501B ACT SFC-4300FT
-================================================================================
 ID: NOTAM_1_80308498
 Number: 03/208
 Type: NotamType.N
@@ -4941,20 +4890,6 @@ Last Updated: 2026-03-08 06:06:00+00:00
 ICAO Location: KZKC
 Text: AIRSPACE R4501H ACT SFC-3200FT
 ================================================================================
-ID: NOTAM_1_80310103
-Number: 03/172
-Type: NotamType.N
-Issued: 2026-03-08 06:06:00+00:00
-Selection Code: QRRCA
-Location: ZKC
-Effective Start: 2026-03-09 06:01:00+00:00
-Effective End: 2026-03-09 11:59:00+00:00
-Classification: Classification.DOM
-Account ID: SUAC
-Last Updated: 2026-03-08 06:06:00+00:00
-ICAO Location: KZKC
-Text: AIRSPACE R4501F ACT SFC-3200FT
-================================================================================
 ID: NOTAM_1_80310917
 Number: 03/004
 Type: NotamType.N
@@ -4969,132 +4904,6 @@ Last Updated: 2026-03-08 08:49:00+00:00
 ICAO Location: KGOK
 Text: OBST WIND TURBINE LGT (ASN 2022-WTW-6831-OE) 355818N0973755W (12.7NM NW GOK) 1535FT (391FT AGL) U/S
 ================================================================================
-ID: NOTAM_1_80312104
-Number: 03/234
-Type: NotamType.N
-Issued: 2026-03-08 12:06:00+00:00
-Selection Code: QRRCA
-Location: ZKC
-Effective Start: 2026-03-09 12:00:00+00:00
-Effective End: 2026-03-09 13:59:00+00:00
-Classification: Classification.DOM
-Account ID: SUAC
-Last Updated: 2026-03-08 12:06:00+00:00
-ICAO Location: KZKC
-Text: AIRSPACE R4501D ACT 5000FT-12000FT
-================================================================================
-ID: NOTAM_1_80312106
-Number: 03/236
-Type: NotamType.N
-Issued: 2026-03-08 12:06:00+00:00
-Selection Code: QRRCA
-Location: ZKC
-Effective Start: 2026-03-09 12:00:00+00:00
-Effective End: 2026-03-09 13:59:00+00:00
-Classification: Classification.DOM
-Account ID: SUAC
-Last Updated: 2026-03-08 12:06:00+00:00
-ICAO Location: KZKC
-Text: AIRSPACE R4501E ACT 12000FT-FL180
-================================================================================
-ID: NOTAM_1_80312108
-Number: 03/238
-Type: NotamType.N
-Issued: 2026-03-08 12:06:00+00:00
-Selection Code: QRRCA
-Location: ZKC
-Effective Start: 2026-03-09 12:00:00+00:00
-Effective End: 2026-03-09 13:59:00+00:00
-Classification: Classification.DOM
-Account ID: SUAC
-Last Updated: 2026-03-08 12:06:00+00:00
-ICAO Location: KZKC
-Text: AIRSPACE R4501C ACT 2200FT-5000FT
-================================================================================
-ID: NOTAM_1_80312921
-Number: 03/247
-Type: NotamType.N
-Issued: 2026-03-08 14:26:00+00:00
-Selection Code: None
-Location: ZKC
-Effective Start: 2026-03-10 14:20:00+00:00
-Effective End: 2026-03-10 15:20:00+00:00
-Classification: Classification.DOM
-Account ID: SUAC
-Last Updated: 2026-03-08 14:26:00+00:00
-ICAO Location: KZKC
-Text: AIRSPACE TWISTER MOA ACT 10000FT UP TO BUT NOT INCLUDING FL180
-================================================================================
-ID: NOTAM_1_80312922
-Number: 03/248
-Type: NotamType.N
-Issued: 2026-03-08 14:26:00+00:00
-Selection Code: None
-Location: ZKC
-Effective Start: 2026-03-10 14:20:00+00:00
-Effective End: 2026-03-10 15:20:00+00:00
-Classification: Classification.DOM
-Account ID: SUAC
-Last Updated: 2026-03-08 14:26:00+00:00
-ICAO Location: KZKC
-Text: AIRSPACE HIGH PLAINS MOA ACT 10000FT UP TO BUT NOT INCLUDING FL180
-================================================================================
-ID: NOTAM_1_80312923
-Number: 03/249
-Type: NotamType.N
-Issued: 2026-03-08 14:26:00+00:00
-Selection Code: None
-Location: ZKC
-Effective Start: 2026-03-10 14:20:00+00:00
-Effective End: 2026-03-10 15:20:00+00:00
-Classification: Classification.DOM
-Account ID: SUAC
-Last Updated: 2026-03-08 14:26:00+00:00
-ICAO Location: KZKC
-Text: AIRSPACE DRIFTER MOA ACT 10000FT UP TO BUT NOT INCLUDING FL180
-================================================================================
-ID: NOTAM_1_80314498
-Number: 03/254
-Type: NotamType.N
-Issued: 2026-03-08 19:26:00+00:00
-Selection Code: None
-Location: ZKC
-Effective Start: 2026-03-10 19:20:00+00:00
-Effective End: 2026-03-10 20:20:00+00:00
-Classification: Classification.DOM
-Account ID: SUAC
-Last Updated: 2026-03-08 19:26:00+00:00
-ICAO Location: KZKC
-Text: AIRSPACE HIGH PLAINS MOA ACT 10000FT UP TO BUT NOT INCLUDING FL180
-================================================================================
-ID: NOTAM_1_80314499
-Number: 03/255
-Type: NotamType.N
-Issued: 2026-03-08 19:26:00+00:00
-Selection Code: None
-Location: ZKC
-Effective Start: 2026-03-10 19:20:00+00:00
-Effective End: 2026-03-10 20:20:00+00:00
-Classification: Classification.DOM
-Account ID: SUAC
-Last Updated: 2026-03-08 19:26:00+00:00
-ICAO Location: KZKC
-Text: AIRSPACE TWISTER MOA ACT 10000FT UP TO BUT NOT INCLUDING FL180
-================================================================================
-ID: NOTAM_1_80314500
-Number: 03/256
-Type: NotamType.N
-Issued: 2026-03-08 19:26:00+00:00
-Selection Code: None
-Location: ZKC
-Effective Start: 2026-03-10 19:20:00+00:00
-Effective End: 2026-03-10 20:20:00+00:00
-Classification: Classification.DOM
-Account ID: SUAC
-Last Updated: 2026-03-08 19:26:00+00:00
-ICAO Location: KZKC
-Text: AIRSPACE DRIFTER MOA ACT 10000FT UP TO BUT NOT INCLUDING FL180
-================================================================================
 ID: NOTAM_1_80315379
 Number: 03/257
 Type: NotamType.N
@@ -5108,64 +4917,6 @@ Account ID: SUAC
 Last Updated: 2026-03-08 23:06:00+00:00
 ICAO Location: KZKC
 Text: AIRSPACE R4501F ACT SFC-3200FT
-================================================================================
-ID: NOTAM_1_80315399
-Number: 03/220
-Type: NotamType.N
-Issued: 2026-03-08 23:08:00+00:00
-Selection Code: None
-Location: ZFW
-Effective Start: 2026-03-09 03:00:00+00:00
-Effective End: 2026-03-09 05:00:00+00:00
-Classification: Classification.DOM
-Account ID: FTW
-Last Updated: 2026-03-08 23:15:00+00:00
-ICAO Location: KZFW
-Text: SVC MIDLAND APP CLSD MNT CTAF 118.7 CLASS C SER INVOLVING VFR ACFT NOT AVBL CTC FORT WORTH ARTCC FOR CLASS C ARR COM ON 133.1 OR 298.95, FOR CLR DELIVERY AT 817-858-7584
-================================================================================
-ID: NOTAM_1_80315421
-Number: A0233/26
-Type: NotamType.N
-Issued: 2026-03-08 23:14:00+00:00
-Selection Code: QSPLC
-Location: ZFW
-Effective Start: 2026-03-09 03:00:00+00:00
-Effective End: 2026-03-09 05:00:00+00:00
-Classification: Classification.INTL
-Account ID: KZFW
-Last Updated: 2026-03-08 23:15:00+00:00
-ICAO Location: KZFW
-Text: ZFW SVC MIDLAND APP CLSD MNT CTAF 118.7 CLASS C SER INVOLVING VFR
-ACFT NOT AVBL CTC FORT WORTH ARTCC FOR CLASS C ARR COM ON 133.1 OR
-298.95, FOR CLR DELIVERY AT 817-858-7584
-================================================================================
-ID: NOTAM_1_80315607
-Number: 03/261
-Type: NotamType.N
-Issued: 2026-03-09 00:06:00+00:00
-Selection Code: QRRCA
-Location: ZKC
-Effective Start: 2026-03-09 06:01:00+00:00
-Effective End: 2026-03-09 11:29:00+00:00
-Classification: Classification.DOM
-Account ID: SUAC
-Last Updated: 2026-03-09 00:06:00+00:00
-ICAO Location: KZKC
-Text: AIRSPACE R4501A ACT SFC-2199FT
-================================================================================
-ID: NOTAM_1_80315609
-Number: 03/263
-Type: NotamType.N
-Issued: 2026-03-09 00:06:00+00:00
-Selection Code: QRRCA
-Location: ZKC
-Effective Start: 2026-03-09 06:01:00+00:00
-Effective End: 2026-03-09 11:29:00+00:00
-Classification: Classification.DOM
-Account ID: SUAC
-Last Updated: 2026-03-09 00:06:00+00:00
-ICAO Location: KZKC
-Text: AIRSPACE R4501B ACT SFC-4300FT
 ================================================================================
 ID: NOTAM_1_80316127
 Number: 03/276
@@ -5208,6 +4959,601 @@ Account ID: SUAC
 Last Updated: 2026-03-09 02:06:00+00:00
 ICAO Location: KZKC
 Text: AIRSPACE R4501D ACT 5000FT-12000FT
+================================================================================
+ID: NOTAM_1_80317185
+Number: 03/290
+Type: NotamType.N
+Issued: 2026-03-09 06:05:00+00:00
+Selection Code: QRRCA
+Location: ZKC
+Effective Start: 2026-03-10 06:01:00+00:00
+Effective End: 2026-03-11 06:00:00+00:00
+Classification: Classification.DOM
+Account ID: SUAC
+Last Updated: 2026-03-09 06:06:00+00:00
+ICAO Location: KZKC
+Text: AIRSPACE R4501H ACT SFC-3200FT
+================================================================================
+ID: NOTAM_1_80317187
+Number: 03/292
+Type: NotamType.N
+Issued: 2026-03-09 06:05:00+00:00
+Selection Code: QRRCA
+Location: ZKC
+Effective Start: 2026-03-10 06:01:00+00:00
+Effective End: 2026-03-10 11:59:00+00:00
+Classification: Classification.DOM
+Account ID: SUAC
+Last Updated: 2026-03-09 06:06:00+00:00
+ICAO Location: KZKC
+Text: AIRSPACE R4501F ACT SFC-3200FT
+================================================================================
+ID: NOTAM_1_80319398
+Number: 03/123
+Type: NotamType.N
+Issued: 2026-03-09 11:34:00+00:00
+Selection Code: None
+Location: 3O3
+Effective Start: 2026-03-09 11:21:00+00:00
+Effective End: 2026-04-09 23:59:00+00:00
+Classification: Classification.DOM
+Account ID: MLC
+Last Updated: 2026-03-09 11:34:00+00:00
+ICAO Location: None
+Text: OBST TOWER LGT (ASR 1050773) 350050.20N0973040.10W (6.6NM WNW 3O3) 1549.9FT (299.9FT AGL) U/S
+================================================================================
+ID: NOTAM_1_80319586
+Number: 03/002
+Type: NotamType.N
+Issued: 2026-03-09 11:37:00+00:00
+Selection Code: None
+Location: CHK
+Effective Start: 2026-03-09 11:36:00+00:00
+Effective End: 2026-04-09 23:59:00+00:00
+Classification: Classification.DOM
+Account ID: CHK
+Last Updated: 2026-03-09 11:37:00+00:00
+ICAO Location: KCHK
+Text: OBST TOWER LGT (ASR 1050787) 350003.20N0975554.10W (6.0NM SSE CHK) 1390.1FT (220.1FT AGL) U/S
+================================================================================
+ID: NOTAM_1_80319636
+Number: 03/228
+Type: NotamType.N
+Issued: 2026-03-09 11:53:00+00:00
+Selection Code: None
+Location: ZFW
+Effective Start: 2026-03-09 11:41:00+00:00
+Effective End: 2026-04-09 23:59:00+00:00
+Classification: Classification.DOM
+Account ID: FTW
+Last Updated: 2026-03-09 11:53:00+00:00
+ICAO Location: KZFW
+Text: OBST WIND TURBINE FARM WI AN AREA DEFINED AS 5.86NM RADIUS OF 353046N0984427W (4.5NM SW OJA) 2184FT (400FT AGL) NOT LGTD
+================================================================================
+ID: NOTAM_1_80319715
+Number: 03/226
+Type: NotamType.N
+Issued: 2026-03-09 11:49:00+00:00
+Selection Code: None
+Location: ZFW
+Effective Start: 2026-03-10 11:00:00+00:00
+Effective End: 2026-03-10 12:30:00+00:00
+Classification: Classification.DOM
+Account ID: FTW
+Last Updated: 2026-03-09 11:51:00+00:00
+ICAO Location: KZFW
+Text: SVC SHEPPARD APP CLSD
+================================================================================
+ID: NOTAM_1_80319717
+Number: 03/227
+Type: NotamType.N
+Issued: 2026-03-09 11:49:00+00:00
+Selection Code: None
+Location: ZFW
+Effective Start: 2026-03-11 01:00:00+00:00
+Effective End: 2026-03-11 03:35:00+00:00
+Classification: Classification.DOM
+Account ID: FTW
+Last Updated: 2026-03-09 11:58:00+00:00
+ICAO Location: KZFW
+Text: SVC SHEPPARD APP OPN
+================================================================================
+ID: NOTAM_1_80319806
+Number: A0235/26
+Type: NotamType.N
+Issued: 2026-03-09 11:58:00+00:00
+Selection Code: QSPXX
+Location: ZFW
+Effective Start: 2026-03-11 01:00:00+00:00
+Effective End: 2026-03-11 03:35:00+00:00
+Classification: Classification.INTL
+Account ID: KZFW
+Last Updated: 2026-03-09 11:58:00+00:00
+ICAO Location: KZFW
+Text: ZFW SVC SHEPPARD APP OPN
+================================================================================
+ID: NOTAM_1_80319910
+Number: 03/346
+Type: NotamType.N
+Issued: 2026-03-09 12:06:00+00:00
+Selection Code: QRRCA
+Location: ZKC
+Effective Start: 2026-03-10 12:00:00+00:00
+Effective End: 2026-03-10 13:59:00+00:00
+Classification: Classification.DOM
+Account ID: SUAC
+Last Updated: 2026-03-09 12:06:00+00:00
+ICAO Location: KZKC
+Text: AIRSPACE R4501E ACT 12000FT-FL180
+================================================================================
+ID: NOTAM_1_80319912
+Number: 03/348
+Type: NotamType.N
+Issued: 2026-03-09 12:06:00+00:00
+Selection Code: QRRCA
+Location: ZKC
+Effective Start: 2026-03-10 12:00:00+00:00
+Effective End: 2026-03-10 13:59:00+00:00
+Classification: Classification.DOM
+Account ID: SUAC
+Last Updated: 2026-03-09 12:06:00+00:00
+ICAO Location: KZKC
+Text: AIRSPACE R4501C ACT 2200FT-5000FT
+================================================================================
+ID: NOTAM_1_80319913
+Number: 03/349
+Type: NotamType.N
+Issued: 2026-03-09 12:06:00+00:00
+Selection Code: QRRCA
+Location: ZKC
+Effective Start: 2026-03-10 12:00:00+00:00
+Effective End: 2026-03-10 13:59:00+00:00
+Classification: Classification.DOM
+Account ID: SUAC
+Last Updated: 2026-03-09 12:06:00+00:00
+ICAO Location: KZKC
+Text: AIRSPACE R4501D ACT 5000FT-12000FT
+================================================================================
+ID: NOTAM_1_80323436
+Number: 03/371
+Type: NotamType.N
+Issued: 2026-03-09 16:06:00+00:00
+Selection Code: None
+Location: ZKC
+Effective Start: 2026-03-09 22:01:00+00:00
+Effective End: 2026-03-10 03:00:00+00:00
+Classification: Classification.DOM
+Account ID: SUAC
+Last Updated: 2026-03-09 16:06:00+00:00
+ICAO Location: KZKC
+Text: AIRSPACE SMOKY HIGH MOA ACT 5000FT UP TO BUT NOT INCLUDING FL180
+================================================================================
+ID: NOTAM_1_80323437
+Number: 03/372
+Type: NotamType.N
+Issued: 2026-03-09 16:06:00+00:00
+Selection Code: None
+Location: ZKC
+Effective Start: 2026-03-09 22:01:00+00:00
+Effective End: 2026-03-10 03:00:00+00:00
+Classification: Classification.DOM
+Account ID: SUAC
+Last Updated: 2026-03-09 16:06:00+00:00
+ICAO Location: KZKC
+Text: AIRSPACE SMOKY MOA ACT 500FT-4999FT
+================================================================================
+ID: NOTAM_1_80323438
+Number: 03/373
+Type: NotamType.N
+Issued: 2026-03-09 16:06:00+00:00
+Selection Code: QRRCA
+Location: ZKC
+Effective Start: 2026-03-09 22:01:00+00:00
+Effective End: 2026-03-10 03:00:00+00:00
+Classification: Classification.DOM
+Account ID: SUAC
+Last Updated: 2026-03-09 16:06:00+00:00
+ICAO Location: KZKC
+Text: AIRSPACE R3601B ACT FL180-FL230
+================================================================================
+ID: NOTAM_1_80323440
+Number: 03/375
+Type: NotamType.N
+Issued: 2026-03-09 16:06:00+00:00
+Selection Code: QRRCA
+Location: ZKC
+Effective Start: 2026-03-09 22:01:00+00:00
+Effective End: 2026-03-10 03:00:00+00:00
+Classification: Classification.DOM
+Account ID: SUAC
+Last Updated: 2026-03-09 16:06:00+00:00
+ICAO Location: KZKC
+Text: AIRSPACE R3601A ACT SFC UP TO BUT NOT INCLUDING FL180
+================================================================================
+ID: NOTAM_1_80324251
+Number: 03/040
+Type: NotamType.N
+Issued: 2026-03-09 17:13:00+00:00
+Selection Code: None
+Location: OKC
+Effective Start: 2026-03-10 15:30:00+00:00
+Effective End: 2026-03-10 21:00:00+00:00
+Classification: Classification.DOM
+Account ID: OKC
+Last Updated: 2026-03-09 17:16:00+00:00
+ICAO Location: KOKC
+Text: RWY 18/36 CLSD EXC XNG
+================================================================================
+ID: NOTAM_1_80324276
+Number: 03/041
+Type: NotamType.N
+Issued: 2026-03-09 17:16:00+00:00
+Selection Code: None
+Location: OKC
+Effective Start: 2026-03-10 15:30:00+00:00
+Effective End: 2026-03-10 21:00:00+00:00
+Classification: Classification.DOM
+Account ID: OKC
+Last Updated: 2026-03-09 17:16:00+00:00
+ICAO Location: KOKC
+Text: TWY B BTN APCH END RWY 18 AND APCH END RWY 35L CLSD
+================================================================================
+ID: NOTAM_1_80324746
+Number: 6/5735
+Type: NotamType.N
+Issued: 2026-03-09 17:45:00+00:00
+Selection Code: QXXXX
+Location: ZFW
+Effective Start: 2026-03-13 13:00:00+00:00
+Effective End: 2026-03-16 02:00:00+00:00
+Classification: Classification.FDC
+Account ID: FDC
+Last Updated: 2026-03-09 17:46:00+00:00
+ICAO Location: KZFW
+Text:  TX..AIRSPACE ARLINGTON, TX..TEMPORARY
+ FLIGHT
+RESTRICTIONS.  
+      MARCH 13-15, 2026 LOCAL. PURSUANT TO 49 USC 40103(B)(3), THE 
+FEDERAL AVIATION ADMINISTRATION (FAA) CLASSIFIES THE AIRSPACE 
+DEFINED IN THIS NOTAM AS 'NTL DEFENSE AIRSPACE'. ANY PERSON WHO 
+KNOWINGLY OR WILLFULLY VIOLATES THE RULES CONCERNING OPS IN THIS 
+AIRSPACE MAY BE SUBJECT TO CERTAIN CRIMINAL PENALTIES UNDER 49 USC 
+SECTION 46307. PILOTS WHO DO NOT ADHERE TO THE FOLLOWING PROC MAY 
+BE INTERCEPTED, DETAINED AND INTERVIEWED BY LAW 
+ENFORCEMENT/SECURITY PERSONNEL.   
+PURSUANT TO 14 CFR 99.7, SPECIAL SECURITY INSTRUCTIONS (SSI), ALL 
+UNMANNED ACFT SYSTEM (UAS) FLT OPS ARE PROHIBITED: WI AN AREA 
+DEFINED AS 0.8NM RADIUS OF 324457N0970519W (TTT193007.6) SFC-400FT 
+AGL  
+EFFECTIVE 2603131300 UTC (0800 LOCAL 03/13/26) UNTIL 2603160200 UTC 
+(2100 LOCAL 03/15/26) DLY 1300-0200 (0800-2100 LOCAL).  
+
+
+
+ EXC AS SPECIFIED BLW:
+END PART 1 OF 3
+TX..AIRSPACE ARLINGTON, TX..TEMPORARY
+ FLIGHT
+A. UAS OPS MAY BE AUTH WI THE DEFINED SSI AIRSPACE
+   IF IN COMPLIANCE WITH THE RQMNTS LISTED BLW: 1) 
+   UAS OPS IN DCT SUPPORT OF AN ACT NTL DEFENSE,
+   HOMELAND SECURITY, LAW ENFORCEMENT, FIREFIGHTING,
+   SAR, OR DISASTER RESPONSE MISSION; 2) UAS OPS IN
+   SUPPORT OF EVENT OPS; 3) COMMERCIAL UAS OPS WITH A
+   VALID STATEMENT OF WORK; 4) MUST BE IN POSSESSION
+   OF AN APPROVED SPECIAL GOVERNMENTAL INTEREST(SGI)
+   AIRSPACE WAIVER; 5) AND COMPLY WITH ALL OTHER
+   APPLICABLE FEDERAL AVIATION REGULATIONS.
+B. UAS OPR IDENTIFIED IN A.1, A.2 OR A.3 ABV MUST
+   APPLY FOR A SGI WAIVER VIA EMAIL AT
+   9-ATOR-HQ-SOSC@FAA.GOV.
+C. UAS OPR WHO DO NOT COMPLY WITH APPLICABLE
+   AIRSPACE RESTRICTIONS ARE WARNED THAT PURSUANT TO
+   10 U.S.C.SECTION 130I AND 6 U.S.C.SECTION 124N,
+   THE DEPARTMENT OF DEFENSE(DOD), THE DEPARTMENT OF
+   HOMELAND SECURITY(DHS) OR THE DEPARTMENT OF
+   JUSTICE(DOJ) MAY TAKE SECURITY ACTION THAT RESULTS
+END PART 2 OF 3
+TX..AIRSPACE ARLINGTON, TX..TEMPORARY
+ FLIGHT
+   IN THE INTERFERENCE, DISRUPTION, SEIZURE,
+   DAMAGING, OR DESTRUCTION OF UNMANNED ACFT DEEMED
+   TO POSE A CREDIBLE SAFETY OR SECURITY THREAT TO
+   PROTECTED PERSONNEL, FAC, OR ASSETS.
+D. THE SYSTEM OPS SUPPORT CENTER (SOSC), IS THE
+   CDN FAC FOR OPR ACCESS AND IS AVBL DLY FM
+   0600-2359 EASTERN, TEL 202-267-8276 FOR CDN.
+E. THE FAA RECOMMENDS THAT ALL ACFT OPR CK NOTAMS
+   FREQUENTLY FOR POSSIBLE CHANGES TO THIS TFR PRIOR
+   TO OPS WI THIS REGION.OPR MAY REVIEW THE TFR
+   DETAILS ON THE INTERNET AT HTTPS://TFR.FAA.GOV/ OR
+   HTTPS://WWW.1800WXBRIEF.COM. IF QUESTIONS REMAIN,
+   CTC FSS, TEL 800-992-7433.
+END PART 3 OF 3
+
+================================================================================
+ID: NOTAM_1_80325491
+Number: 03/409
+Type: NotamType.N
+Issued: 2026-03-09 19:06:00+00:00
+Selection Code: None
+Location: ZKC
+Effective Start: 2026-03-10 01:00:00+00:00
+Effective End: 2026-03-10 03:00:00+00:00
+Classification: Classification.DOM
+Account ID: SUAC
+Last Updated: 2026-03-09 19:06:00+00:00
+ICAO Location: KZKC
+Text: AIRSPACE BISON MOA ACT 1000FT UP TO BUT NOT INCLUDING FL180
+================================================================================
+ID: NOTAM_1_80325817
+Number: 03/414
+Type: NotamType.N
+Issued: 2026-03-09 19:40:00+00:00
+Selection Code: None
+Location: ZFW
+Effective Start: 2026-03-10 01:37:00+00:00
+Effective End: 2026-03-10 04:15:00+00:00
+Classification: Classification.DOM
+Account ID: SUAC
+Last Updated: 2026-03-09 19:41:00+00:00
+ICAO Location: KZFW
+Text: AIRSPACE SHEPPARD 2 MOA ACT 8000FT UP TO BUT NOT INCLUDING FL180
+================================================================================
+ID: NOTAM_1_80325818
+Number: 03/415
+Type: NotamType.N
+Issued: 2026-03-09 19:40:00+00:00
+Selection Code: None
+Location: ZFW
+Effective Start: 2026-03-10 01:39:00+00:00
+Effective End: 2026-03-10 04:15:00+00:00
+Classification: Classification.DOM
+Account ID: SUAC
+Last Updated: 2026-03-09 19:41:00+00:00
+ICAO Location: KZFW
+Text: AIRSPACE WASHITA MOA ACT 8000FT UP TO BUT NOT INCLUDING FL180
+================================================================================
+ID: NOTAM_1_80325867
+Number: 03/416
+Type: NotamType.N
+Issued: 2026-03-09 19:45:00+00:00
+Selection Code: None
+Location: ZFW
+Effective Start: 2026-03-10 01:40:00+00:00
+Effective End: 2026-03-10 04:15:00+00:00
+Classification: Classification.DOM
+Account ID: SUAC
+Last Updated: 2026-03-09 19:46:00+00:00
+ICAO Location: KZFW
+Text: AIRSPACE SHEPPARD 1 MOA ACT 8000FT UP TO BUT NOT INCLUDING FL180
+================================================================================
+ID: NOTAM_1_80325868
+Number: 03/417
+Type: NotamType.N
+Issued: 2026-03-09 19:45:00+00:00
+Selection Code: None
+Location: ZFW
+Effective Start: 2026-03-10 01:43:00+00:00
+Effective End: 2026-03-10 04:15:00+00:00
+Classification: Classification.DOM
+Account ID: SUAC
+Last Updated: 2026-03-09 19:46:00+00:00
+ICAO Location: KZFW
+Text: AIRSPACE WESTOVER 1 MOA ACT 9500FT UP TO BUT NOT INCLUDING FL180
+================================================================================
+ID: NOTAM_1_80325913
+Number: 03/418
+Type: NotamType.N
+Issued: 2026-03-09 19:50:00+00:00
+Selection Code: None
+Location: ZFW
+Effective Start: 2026-03-10 01:46:00+00:00
+Effective End: 2026-03-10 04:15:00+00:00
+Classification: Classification.DOM
+Account ID: SUAC
+Last Updated: 2026-03-09 19:51:00+00:00
+ICAO Location: KZFW
+Text: AIRSPACE WESTOVER 2 MOA ACT 10000FT UP TO BUT NOT INCLUDING FL180
+================================================================================
+ID: NOTAM_1_80325914
+Number: 03/419
+Type: NotamType.N
+Issued: 2026-03-09 19:50:00+00:00
+Selection Code: None
+Location: ZFW
+Effective Start: 2026-03-10 01:45:00+00:00
+Effective End: 2026-03-10 04:15:00+00:00
+Classification: Classification.DOM
+Account ID: SUAC
+Last Updated: 2026-03-09 19:51:00+00:00
+ICAO Location: KZFW
+Text: AIRSPACE HOLLIS MOA ACT 11000FT UP TO BUT NOT INCLUDING FL180
+================================================================================
+ID: NOTAM_1_80326039
+Number: M0187/26
+Type: NotamType.C
+Issued: 2026-03-09 20:04:00+00:00
+Selection Code: None
+Location: TIK
+Effective Start: 2026-03-09 20:04:00+00:00
+Effective End: 2026-03-12 20:04:00+00:00
+Classification: Classification.MIL
+Account ID: KTIK
+Last Updated: 2026-03-09 20:04:00+00:00
+ICAO Location: KTIK
+Text: M0187/26 NOTAMC M0082/26
+A) KTIK
+================================================================================
+ID: NOTAM_1_80326073
+Number: 03/426
+Type: NotamType.N
+Issued: 2026-03-09 20:05:00+00:00
+Selection Code: QRRCA
+Location: ZKC
+Effective Start: 2026-03-10 02:01:00+00:00
+Effective End: 2026-03-10 06:00:00+00:00
+Classification: Classification.DOM
+Account ID: SUAC
+Last Updated: 2026-03-09 20:06:00+00:00
+ICAO Location: KZKC
+Text: AIRSPACE R4501A ACT SFC-2199FT
+================================================================================
+ID: NOTAM_1_80326209
+Number: 03/042
+Type: NotamType.N
+Issued: 2026-03-09 20:21:00+00:00
+Selection Code: None
+Location: OKC
+Effective Start: 2026-03-10 13:30:00+00:00
+Effective End: 2026-03-10 19:30:00+00:00
+Classification: Classification.DOM
+Account ID: OKC
+Last Updated: 2026-03-09 20:23:00+00:00
+ICAO Location: KOKC
+Text: RWY 17L/35R CLSD EXC XNG
+================================================================================
+ID: NOTAM_1_80326560
+Number: 03/433
+Type: NotamType.N
+Issued: 2026-03-09 21:06:00+00:00
+Selection Code: QRRCA
+Location: ZKC
+Effective Start: 2026-03-10 03:01:00+00:00
+Effective End: 2026-03-10 06:00:00+00:00
+Classification: Classification.DOM
+Account ID: SUAC
+Last Updated: 2026-03-09 21:06:00+00:00
+ICAO Location: KZKC
+Text: AIRSPACE R4501B ACT SFC-4300FT
+================================================================================
+ID: NOTAM_1_80326561
+Number: 03/434
+Type: NotamType.N
+Issued: 2026-03-09 21:06:00+00:00
+Selection Code: QRRCA
+Location: ZKC
+Effective Start: 2026-03-10 21:01:00+00:00
+Effective End: 2026-03-11 06:00:00+00:00
+Classification: Classification.DOM
+Account ID: SUAC
+Last Updated: 2026-03-09 21:06:00+00:00
+ICAO Location: KZKC
+Text: AIRSPACE R4501D ACT 5000FT-12000FT
+================================================================================
+ID: NOTAM_1_80326562
+Number: 03/435
+Type: NotamType.N
+Issued: 2026-03-09 21:06:00+00:00
+Selection Code: QRRCA
+Location: ZKC
+Effective Start: 2026-03-10 21:01:00+00:00
+Effective End: 2026-03-11 06:00:00+00:00
+Classification: Classification.DOM
+Account ID: SUAC
+Last Updated: 2026-03-09 21:06:00+00:00
+ICAO Location: KZKC
+Text: AIRSPACE R4501E ACT 12000FT-FL180
+================================================================================
+ID: NOTAM_1_80326563
+Number: 03/436
+Type: NotamType.N
+Issued: 2026-03-09 21:06:00+00:00
+Selection Code: QRRCA
+Location: ZKC
+Effective Start: 2026-03-10 21:01:00+00:00
+Effective End: 2026-03-11 06:00:00+00:00
+Classification: Classification.DOM
+Account ID: SUAC
+Last Updated: 2026-03-09 21:06:00+00:00
+ICAO Location: KZKC
+Text: AIRSPACE R4501C ACT 2200FT-5000FT
+================================================================================
+ID: NOTAM_1_80327444
+Number: 03/444
+Type: NotamType.N
+Issued: 2026-03-09 23:05:00+00:00
+Selection Code: QRRCA
+Location: ZKC
+Effective Start: 2026-03-10 23:00:00+00:00
+Effective End: 2026-03-11 06:00:00+00:00
+Classification: Classification.DOM
+Account ID: SUAC
+Last Updated: 2026-03-09 23:06:00+00:00
+ICAO Location: KZKC
+Text: AIRSPACE R4501F ACT SFC-3200FT
+================================================================================
+ID: NOTAM_1_80327818
+Number: 03/454
+Type: NotamType.N
+Issued: 2026-03-10 00:06:00+00:00
+Selection Code: QRRCA
+Location: ZKC
+Effective Start: 2026-03-10 06:01:00+00:00
+Effective End: 2026-03-10 11:29:00+00:00
+Classification: Classification.DOM
+Account ID: SUAC
+Last Updated: 2026-03-10 00:06:00+00:00
+ICAO Location: KZKC
+Text: AIRSPACE R4501A ACT SFC-2199FT
+================================================================================
+ID: NOTAM_1_80327820
+Number: 03/456
+Type: NotamType.N
+Issued: 2026-03-10 00:06:00+00:00
+Selection Code: QRRCA
+Location: ZKC
+Effective Start: 2026-03-10 06:01:00+00:00
+Effective End: 2026-03-10 11:29:00+00:00
+Classification: Classification.DOM
+Account ID: SUAC
+Last Updated: 2026-03-10 00:06:00+00:00
+ICAO Location: KZKC
+Text: AIRSPACE R4501B ACT SFC-4300FT
+================================================================================
+ID: NOTAM_1_80328639
+Number: 03/248
+Type: NotamType.N
+Issued: 2026-03-10 02:30:00+00:00
+Selection Code: None
+Location: ZFW
+Effective Start: 2026-03-10 03:00:00+00:00
+Effective End: 2026-03-10 05:00:00+00:00
+Classification: Classification.DOM
+Account ID: FTW
+Last Updated: 2026-03-10 02:44:00+00:00
+ICAO Location: KZFW
+Text: SVC MIDLAND APP CLSD MNT CTAF 118.7 CLASS C SER INVOLVING VFR ACFT NOT AVBL CTC FORT WORTH ARTCC FOR CLASS C ARR COM ON 133.1 OR 298.95, FOR CLR DELIVERY AT 817-858-7584
+================================================================================
+ID: NOTAM_1_80328668
+Number: 03/186
+Type: NotamType.N
+Issued: 2026-03-10 02:35:00+00:00
+Selection Code: None
+Location: ZKC
+Effective Start: 2026-03-10 02:34:00+00:00
+Effective End: 2026-04-10 23:59:00+00:00
+Classification: Classification.DOM
+Account ID: COU
+Last Updated: 2026-03-10 02:35:00+00:00
+ICAO Location: KZKC
+Text: OBST WIND TURBINE FARM WI AN AREA DEFINED AS 2.63NM RADIUS OF 363458N0991801W (16NM NE WWR) 2541FT (400FT AGL) NOT LGTD
+================================================================================
+ID: NOTAM_1_80328701
+Number: A0236/26
+Type: NotamType.N
+Issued: 2026-03-10 02:43:00+00:00
+Selection Code: QSPLC
+Location: ZFW
+Effective Start: 2026-03-10 03:00:00+00:00
+Effective End: 2026-03-10 05:00:00+00:00
+Classification: Classification.INTL
+Account ID: KZFW
+Last Updated: 2026-03-10 02:44:00+00:00
+ICAO Location: KZFW
+Text: ZFW SVC MIDLAND APP CLSD MNT CTAF 118.7 CLASS C SER INVOLVING VFR
+ACFT NOT AVBL CTC FORT WORTH ARTCC FOR CLASS C ARR COM ON 133.1 OR
+298.95, FOR CLR DELIVERY AT 817-858-7584
 ================================================================================
 ID: NOTAM_1_79921538
 Number: 02/104
@@ -5699,19 +6045,33 @@ Last Updated: 2026-03-06 16:36:00+00:00
 ICAO Location: KGCK
 Text: NAV VORTAC U/S
 ================================================================================
-ID: NOTAM_1_80303771
-Number: 03/005
+ID: NOTAM_1_80325793
+Number: 03/135
 Type: NotamType.N
-Issued: 2026-03-07 14:04:00+00:00
+Issued: 2026-03-09 19:40:00+00:00
+Selection Code: None
+Location: 1K9
+Effective Start: 2026-03-09 19:39:00+00:00
+Effective End: 2026-05-08 23:59:00+00:00
+Classification: Classification.DOM
+Account ID: ICT
+Last Updated: 2026-03-09 19:40:00+00:00
+ICAO Location: None
+Text: OBST TOWER LGT (ASR 1017299) 372406.70N1010145.80W (3.9NM SSW 1K9) 3169.6FT (254.9FT AGL) U/S
+================================================================================
+ID: NOTAM_1_80326403
+Number: 03/007
+Type: NotamType.N
+Issued: 2026-03-09 20:45:00+00:00
 Selection Code: None
 Location: GCK
-Effective Start: 2026-03-07 14:01:00+00:00
-Effective End: 2026-03-11 20:00:00+00:00
+Effective Start: 2026-03-09 20:44:00+00:00
+Effective End: 2026-03-16 23:45:00+00:00
 Classification: Classification.DOM
 Account ID: GCK
-Last Updated: 2026-03-07 14:04:00+00:00
+Last Updated: 2026-03-09 20:45:00+00:00
 ICAO Location: KGCK
-Text: RWY 17 VASI U/S
+Text: NAV ILS RWY 35 GP/LOC NOT MNT
 ================================================================================
 ID: NOTAM_1_72647316
 Number: 4/3383
@@ -6887,20 +7247,6 @@ Last Updated: 2026-02-23 07:06:00+00:00
 ICAO Location: KZDV
 Text: AIRSPACE R2603 ACT SFC-9999FT
 ================================================================================
-ID: NOTAM_1_80166591
-Number: 02/408
-Type: NotamType.N
-Issued: 2026-02-25 18:34:00+00:00
-Selection Code: None
-Location: JHN
-Effective Start: 2026-02-25 18:34:00+00:00
-Effective End: 2026-03-26 23:59:00+00:00
-Classification: Classification.DOM
-Account ID: ICT
-Last Updated: 2026-02-25 18:34:00+00:00
-ICAO Location: KJHN
-Text: SVC AUTOMATED WX BCST SYSTEM CEILING NOT AVBL
-================================================================================
 ID: NOTAM_1_80189802
 Number: 02/645
 Type: NotamType.N
@@ -6964,20 +7310,6 @@ REBROADCAST (ADS-R), TFC INFO SER BCST (TIS-B), FLT INFO SER
 BCST (FIS-B) SER MAY NOT BE AVBL WI AN AREA DEFINED AS 218NM RADIUS
 OF 364614N1141350W. AP AIRSPACE AFFECTED MAY INCLUDE LAS, PHX, DTA,
 MMH, VCV, PSP, PAN, INW.
-================================================================================
-ID: NOTAM_1_80229765
-Number: 03/022
-Type: NotamType.N
-Issued: 2026-03-02 15:05:00+00:00
-Selection Code: None
-Location: ZDV
-Effective Start: 2026-03-03 19:00:00+00:00
-Effective End: 2026-03-09 06:00:00+00:00
-Classification: Classification.DOM
-Account ID: DEN
-Last Updated: 2026-03-02 15:05:00+00:00
-ICAO Location: KZDV
-Text: AIRSPACE UAS WI AN AREA DEFINED AS 22NM RADIUS OF 381112N1073924W (18.5NM NE TEX) SFC-12800FT DLY 1900-0600
 ================================================================================
 ID: NOTAM_1_80245444
 Number: 03/059
@@ -7155,74 +7487,6 @@ AND ADS-B) MAY NOT BE AVBL WI A 648NM RADIUS CENTERED AT
 510NM RADIUS AT 4000FT AGL,
 481NM RADIUS AT 50FT AGL.
 ================================================================================
-ID: NOTAM_1_80280785
-Number: 03/107
-Type: NotamType.N
-Issued: 2026-03-06 00:03:00+00:00
-Selection Code: None
-Location: ZDV
-Effective Start: 2026-03-08 04:00:00+00:00
-Effective End: 2026-03-09 12:00:00+00:00
-Classification: Classification.DOM
-Account ID: DEN
-Last Updated: 2026-03-06 00:09:00+00:00
-ICAO Location: KZDV
-Text: SVC ELLSWORTH APP OPEN DLY 0400-1200
-================================================================================
-ID: NOTAM_1_80280843
-Number: 03/058
-Type: NotamType.N
-Issued: 2026-03-06 00:07:00+00:00
-Selection Code: QXXXX
-Location: ZDV
-Effective Start: 2026-03-09 06:00:00+00:00
-Effective End: 2026-03-09 12:59:00+00:00
-Classification: Classification.DOM
-Account ID: GPS
-Last Updated: 2026-03-06 00:22:00+00:00
-ICAO Location: KZDV
-Text: NAV GPS (FTIRCA GPS 26-23) (INCLUDING WAAS, GBAS,
-AND ADS-B) MAY NOT BE AVBL WI A 299NM RADIUS CENTERED AT
-352146N1163221W (DAG350024) FL400-UNL,
-253NM RADIUS AT FL250, 
-178NM RADIUS AT 10000FT, 
-149NM RADIUS AT 4000FT AGL, 
-133NM RADIUS AT 50FT AGL.
-================================================================================
-ID: NOTAM_1_80280855
-Number: A0070/26
-Type: NotamType.N
-Issued: 2026-03-06 00:09:00+00:00
-Selection Code: QSPXX
-Location: ZDV
-Effective Start: 2026-03-08 04:00:00+00:00
-Effective End: 2026-03-09 12:00:00+00:00
-Classification: Classification.INTL
-Account ID: KZDV
-Last Updated: 2026-03-06 00:09:00+00:00
-ICAO Location: KZDV
-Text: ZDV SVC ELLSWORTH APP OPEN
-================================================================================
-ID: NOTAM_1_80280998
-Number: A0072/26
-Type: NotamType.N
-Issued: 2026-03-06 00:21:00+00:00
-Selection Code: None
-Location: ZDV
-Effective Start: 2026-03-09 06:00:00+00:00
-Effective End: 2026-03-09 12:59:00+00:00
-Classification: Classification.INTL
-Account ID: KZDV
-Last Updated: 2026-03-06 00:22:00+00:00
-ICAO Location: KZDV
-Text: ZDV NAV GPS (FTIRCA GPS 26-23) (INCLUDING WAAS, GBAS,
-AND ADS-B) MAY NOT BE AVBL WI A 299NM RADIUS CENTERED AT
-352146N1163221W (DAG350024) FL400-UNL,
-253NM RADIUS AT FL250, 
-178NM RADIUS AT 10000FT, 
-149NM RADIUS AT 4000FT AGL, 
-133NM RADIUS AT 50FT AGL.
-================================================================================
 ID: NOTAM_1_80297865
 Number: 03/176
 Type: NotamType.N
@@ -7236,20 +7500,6 @@ Account ID: DEN
 Last Updated: 2026-03-07 00:16:00+00:00
 ICAO Location: KZDV
 Text: OBST WIND TURBINE FARM WI AN AREA DEFINED AS 6.61NM RADIUS OF 405841N1032416W (11.3NM SW SNY) 5101FT (400FT AGL) NOT LGTD
-================================================================================
-ID: NOTAM_1_80298390
-Number: 03/029
-Type: NotamType.N
-Issued: 2026-03-07 01:06:00+00:00
-Selection Code: QRRCA
-Location: ZDV
-Effective Start: 2026-03-07 07:01:00+00:00
-Effective End: 2026-03-09 10:59:00+00:00
-Classification: Classification.DOM
-Account ID: SUAW
-Last Updated: 2026-03-07 01:06:00+00:00
-ICAO Location: KZDV
-Text: AIRSPACE R2601A ACT SFC-12499FT
 ================================================================================
 ID: NOTAM_1_80303861
 Number: 03/059
@@ -7313,19 +7563,198 @@ Last Updated: 2026-03-08 06:12:00+00:00
 ICAO Location: None
 Text: OBST TOWER LGT (ASN 2024-WTE-9037-OE) 380815N1010034W (15.4NM NE 36K) 3189FT (267FT AGL) U/S
 ================================================================================
-ID: NOTAM_1_80313695
-Number: 03/120
+ID: NOTAM_1_80321016
+Number: 03/070
 Type: NotamType.N
-Issued: 2026-03-08 16:42:00+00:00
-Selection Code: None
-Location: JHN
-Effective Start: 2026-03-09 17:00:00+00:00
-Effective End: 2026-03-09 21:00:00+00:00
+Issued: 2026-03-09 13:35:00+00:00
+Selection Code: QXXXX
+Location: ZDV
+Effective Start: 2026-03-13 16:00:00+00:00
+Effective End: 2026-03-13 18:30:00+00:00
 Classification: Classification.DOM
-Account ID: ICT
-Last Updated: 2026-03-08 16:42:00+00:00
-ICAO Location: KJHN
-Text: SVC AUTOMATED WX BCST SYSTEM 124.175 U/S
+Account ID: GPS
+Last Updated: 2026-03-09 13:44:00+00:00
+ICAO Location: KZDV
+Text: NAV GPS (DPG GPS 26-01) (INCLUDING WAAS, GBAS, AND
+ADS-B) MAY NOT BE AVBL WI A 304NM RADIUS CENTERED AT 401021N1131525W
+(BVL133040) FL400-UNL, 
+245NM RADIUS AT FL250, 
+187NM RADIUS AT 10000FT, 
+187NM RADIUS AT 4000FT AGL, 
+157NM RADIUS AT 50FT AGL.
+================================================================================
+ID: NOTAM_1_80321147
+Number: A0074/26
+Type: NotamType.N
+Issued: 2026-03-09 13:43:00+00:00
+Selection Code: None
+Location: ZDV
+Effective Start: 2026-03-13 16:00:00+00:00
+Effective End: 2026-03-13 18:30:00+00:00
+Classification: Classification.INTL
+Account ID: KZDV
+Last Updated: 2026-03-09 13:44:00+00:00
+ICAO Location: KZDV
+Text: ZDV NAV GPS (DPG GPS 26-01) (INCLUDING WAAS, GBAS, AND
+ADS-B) MAY NOT BE AVBL WI A 304NM RADIUS CENTERED AT 401021N1131525W
+(BVL133040) FL400-UNL, 
+245NM RADIUS AT FL250, 
+187NM RADIUS AT 10000FT, 
+187NM RADIUS AT 4000FT AGL, 
+157NM RADIUS AT 50FT AGL.
+================================================================================
+ID: NOTAM_1_80321200
+Number: 03/074
+Type: NotamType.N
+Issued: 2026-03-09 13:47:00+00:00
+Selection Code: QXXXX
+Location: ZDV
+Effective Start: 2026-03-14 16:00:00+00:00
+Effective End: 2026-03-15 22:59:00+00:00
+Classification: Classification.DOM
+Account ID: GPS
+Last Updated: 2026-03-09 13:56:00+00:00
+ICAO Location: KZDV
+Text: NAV GPS (DPG GPS 26-01) (INCLUDING WAAS, GBAS, AND
+ADS-B) MAY NOT BE AVBL WI A 
+304NM RADIUS CENTERED AT 401021N1131525W (BVL133040) FL400-UNL,
+245NM RADIUS AT FL250, 
+187NM RADIUS AT 10000FT, 
+187NM RADIUS AT 4000FT AGL, 
+157NM RADIUS AT 50FT AGL.
+DLY 1600-2259
+================================================================================
+ID: NOTAM_1_80321334
+Number: A0075/26
+Type: NotamType.N
+Issued: 2026-03-09 13:55:00+00:00
+Selection Code: None
+Location: ZDV
+Effective Start: 2026-03-14 16:00:00+00:00
+Effective End: 2026-03-15 22:59:00+00:00
+Classification: Classification.INTL
+Account ID: KZDV
+Last Updated: 2026-03-09 13:56:00+00:00
+ICAO Location: KZDV
+Text: ZDV NAV GPS (DPG GPS 26-01) (INCLUDING WAAS, GBAS, AND
+ADS-B) MAY NOT BE AVBL WI A 
+304NM RADIUS CENTERED AT 401021N1131525W (BVL133040) FL400-UNL,
+245NM RADIUS AT FL250, 
+187NM RADIUS AT 10000FT, 
+187NM RADIUS AT 4000FT AGL, 
+157NM RADIUS AT 50FT AGL.
+================================================================================
+ID: NOTAM_1_80324233
+Number: 03/281
+Type: NotamType.N
+Issued: 2026-03-09 17:20:00+00:00
+Selection Code: None
+Location: ZDV
+Effective Start: 2026-03-11 01:00:00+00:00
+Effective End: 2026-03-11 04:00:00+00:00
+Classification: Classification.DOM
+Account ID: DEN
+Last Updated: 2026-03-09 17:20:00+00:00
+ICAO Location: KZDV
+Text: AIRSPACE AIRDROP WI AN AREA DEFINED AS 3NM EITHER SIDE OF A LINE FM CYS349027 TO CYS256012 TO CYS216014 SFC-9000FT
+================================================================================
+ID: NOTAM_1_80324242
+Number: 03/280
+Type: NotamType.N
+Issued: 2026-03-09 17:20:00+00:00
+Selection Code: None
+Location: ZDV
+Effective Start: 2026-03-12 01:00:00+00:00
+Effective End: 2026-03-12 04:00:00+00:00
+Classification: Classification.DOM
+Account ID: DEN
+Last Updated: 2026-03-09 17:20:00+00:00
+ICAO Location: KZDV
+Text: AIRSPACE AIRDROP WI AN AREA DEFINED AS 3NM EITHER SIDE OF A LINE FM CYS349027 TO CYS256012 TO CYS216014 SFC-9000FT
+================================================================================
+ID: NOTAM_1_80327838
+Number: 03/389
+Type: NotamType.N
+Issued: 2026-03-10 00:06:00+00:00
+Selection Code: QRRCA
+Location: ZDV
+Effective Start: 2026-03-11 00:00:00+00:00
+Effective End: 2026-03-11 04:00:00+00:00
+Classification: Classification.DOM
+Account ID: SUAW
+Last Updated: 2026-03-10 00:06:00+00:00
+ICAO Location: KZDV
+Text: AIRSPACE R7002B ACT SFC-FL235
+================================================================================
+ID: NOTAM_1_80327839
+Number: 03/390
+Type: NotamType.N
+Issued: 2026-03-10 00:06:00+00:00
+Selection Code: QRRCA
+Location: ZDV
+Effective Start: 2026-03-11 00:00:00+00:00
+Effective End: 2026-03-11 04:00:00+00:00
+Classification: Classification.DOM
+Account ID: SUAW
+Last Updated: 2026-03-10 00:06:00+00:00
+ICAO Location: KZDV
+Text: AIRSPACE R7002C ACT SFC-FL235
+================================================================================
+ID: NOTAM_1_80327840
+Number: 03/391
+Type: NotamType.N
+Issued: 2026-03-10 00:06:00+00:00
+Selection Code: QRRCA
+Location: ZDV
+Effective Start: 2026-03-11 00:00:00+00:00
+Effective End: 2026-03-11 04:00:00+00:00
+Classification: Classification.DOM
+Account ID: SUAW
+Last Updated: 2026-03-10 00:06:00+00:00
+ICAO Location: KZDV
+Text: AIRSPACE R7001B ACT 8000FT-FL235
+================================================================================
+ID: NOTAM_1_80327841
+Number: 03/392
+Type: NotamType.N
+Issued: 2026-03-10 00:06:00+00:00
+Selection Code: QRRCA
+Location: ZDV
+Effective Start: 2026-03-11 00:00:00+00:00
+Effective End: 2026-03-11 04:00:00+00:00
+Classification: Classification.DOM
+Account ID: SUAW
+Last Updated: 2026-03-10 00:06:00+00:00
+ICAO Location: KZDV
+Text: AIRSPACE R7002A ACT SFC-FL235
+================================================================================
+ID: NOTAM_1_80327842
+Number: 03/393
+Type: NotamType.N
+Issued: 2026-03-10 00:06:00+00:00
+Selection Code: QRRCA
+Location: ZDV
+Effective Start: 2026-03-11 00:00:00+00:00
+Effective End: 2026-03-11 04:00:00+00:00
+Classification: Classification.DOM
+Account ID: SUAW
+Last Updated: 2026-03-10 00:06:00+00:00
+ICAO Location: KZDV
+Text: AIRSPACE R7001A ACT SFC-7999FT
+================================================================================
+ID: NOTAM_1_80327843
+Number: 03/394
+Type: NotamType.N
+Issued: 2026-03-10 00:06:00+00:00
+Selection Code: QRRCA
+Location: ZDV
+Effective Start: 2026-03-10 06:01:00+00:00
+Effective End: 2026-03-10 10:59:00+00:00
+Classification: Classification.DOM
+Account ID: SUAW
+Last Updated: 2026-03-10 00:06:00+00:00
+ICAO Location: KZDV
+Text: AIRSPACE R2601A ACT SFC-12499FT
 ================================================================================
 ID: NOTAM_1_80248893
 Number: 03/035
@@ -7591,20 +8020,6 @@ Last Updated: 2026-02-19 09:29:00+00:00
 ICAO Location: KFMM
 Text: OBST TOWER LGT (ASR 1237165) 395521.80N1035820.20W (25.81NM S FMM) 6945FT (1995FT AGL) U/S
 ================================================================================
-ID: NOTAM_1_80169303
-Number: 02/524
-Type: NotamType.N
-Issued: 2026-02-25 21:36:00+00:00
-Selection Code: None
-Location: FQF
-Effective Start: 2026-02-25 21:36:00+00:00
-Effective End: 2026-03-10 20:00:00+00:00
-Classification: Classification.DOM
-Account ID: DEN
-Last Updated: 2026-02-25 21:36:00+00:00
-ICAO Location: None
-Text: NAV VORTAC NOT MNT
-================================================================================
 ID: NOTAM_1_80199987
 Number: 02/026
 Type: NotamType.N
@@ -7746,22 +8161,54 @@ Last Updated: 2026-03-03 20:29:00+00:00
 ICAO Location: KDEN
 Text: /FQF/ NAV VOR U/S
 ================================================================================
-ID: NOTAM_1_80282902
-Number: 6/4477
+ID: NOTAM_1_80322137
+Number: 6/5499
 Type: NotamType.N
-Issued: 2026-03-06 04:23:00+00:00
+Issued: 2026-03-09 14:42:00+00:00
 Selection Code: None
 Location: CFO
-Effective Start: 2026-03-06 04:23:00+00:00
-Effective End: 2026-04-02 04:23:00+00:00
+Effective Start: 2026-03-10 15:00:00+00:00
+Effective End: 2026-03-17 14:41:00+00:00
 Classification: Classification.FDC
 Account ID: FDC
-Last Updated: 2026-03-06 04:23:00+00:00
+Last Updated: 2026-03-09 14:42:00+00:00
 ICAO Location: KCFO
 Text: SID COLORADO AIR AND SPACE PORT, DENVER, CO.
-ROCKIES SEVEN DEPARTURE...
-RIFLE TRANSITION NA EXCEPT FOR ACFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS,
-RIL VOR OUT OF SERVICE. 2603060423-2604020423EST
+PIKES THREE DEPARTURE...
+PUEBLO TRANSITION NA EXCEPT FOR ACFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS,
+BRK VOR/DME OUT OF SERVICE. 2603101500-2603171441EST
+================================================================================
+ID: NOTAM_1_80322409
+Number: 6/5562
+Type: NotamType.N
+Issued: 2026-03-09 14:52:00+00:00
+Selection Code: None
+Location: CFO
+Effective Start: 2026-03-10 15:00:00+00:00
+Effective End: 2026-03-17 14:51:00+00:00
+Classification: Classification.FDC
+Account ID: FDC
+Last Updated: 2026-03-09 14:52:00+00:00
+ICAO Location: KCFO
+Text: SID COLORADO AIR AND SPACE PORT, DENVER, CO.
+PLAINS TWO DEPARTURE...
+CABET TRANSITION DME REQUIRED EXCEPT FOR ACFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS.
+GOODLAND TRANSITION NA EXCEPT FOR ACFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS,
+GLD VORTAC OUT OF SERVICE. 2603101500-2603171451EST
+================================================================================
+ID: NOTAM_1_80325373
+Number: 03/287
+Type: NotamType.N
+Issued: 2026-03-09 18:50:00+00:00
+Selection Code: None
+Location: FQF
+Effective Start: 2026-03-09 18:50:00+00:00
+Effective End: 2026-03-20 20:00:00+00:00
+Classification: Classification.DOM
+Account ID: DEN
+Last Updated: 2026-03-09 18:50:00+00:00
+ICAO Location: None
+Text: NAV VORTAC NOT MNT
 ================================================================================
 ID: NOTAM_1_71042353
 Number: A0469/24
@@ -9454,130 +9901,6 @@ Last Updated: 2026-03-05 21:46:00+00:00
 ICAO Location: KBJC
 Text: OBST TOWER LGT (ASN 2009-WTW-1857-OE) 395422N1051331W (5.0NM W BJC) 6498FT (445FT AGL) U/S
 ================================================================================
-ID: NOTAM_1_80282897
-Number: 6/4473
-Type: NotamType.N
-Issued: 2026-03-06 04:23:00+00:00
-Selection Code: None
-Location: DEN
-Effective Start: 2026-03-06 04:23:00+00:00
-Effective End: 2026-04-02 04:23:00+00:00
-Classification: Classification.FDC
-Account ID: FDC
-Last Updated: 2026-03-06 04:27:00+00:00
-ICAO Location: KDEN
-Text: SID DENVER INTL, DENVER, CO.
-ROCKIES SEVEN DEPARTURE...
-RIFLE TRANSITION NA EXCEPT FOR ACFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS,
-RIL VOR OUT OF SERVICE. 2603060423-2604020423EST
-================================================================================
-ID: NOTAM_1_80282898
-Number: 6/4474
-Type: NotamType.N
-Issued: 2026-03-06 04:23:00+00:00
-Selection Code: None
-Location: BJC
-Effective Start: 2026-03-06 04:23:00+00:00
-Effective End: 2026-04-02 04:23:00+00:00
-Classification: Classification.FDC
-Account ID: FDC
-Last Updated: 2026-03-06 04:27:00+00:00
-ICAO Location: KBJC
-Text: SID ROCKY MOUNTAIN METRO, DENVER, CO.
-ROCKIES SEVEN DEPARTURE...
-RIFLE TRANSITION NA EXCEPT FOR ACFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS,
-RIL VOR OUT OF SERVICE. 2603060423-2604020423EST
-================================================================================
-ID: NOTAM_1_80282899
-Number: 6/4475
-Type: NotamType.N
-Issued: 2026-03-06 04:23:00+00:00
-Selection Code: None
-Location: BKF
-Effective Start: 2026-03-06 04:23:00+00:00
-Effective End: 2026-04-02 04:23:00+00:00
-Classification: Classification.FDC
-Account ID: FDC
-Last Updated: 2026-03-06 04:23:00+00:00
-ICAO Location: KBKF
-Text: SID BUCKLEY SPACE FORCE BASE, AURORA, CO.
-ROCKIES SEVEN DEPARTURE...
-RIFLE TRANSITION NA EXCEPT FOR ACFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS,
-RIL VOR OUT OF SERVICE. 2603060423-2604020423EST
-================================================================================
-ID: NOTAM_1_80282900
-Number: 6/4476
-Type: NotamType.N
-Issued: 2026-03-06 04:23:00+00:00
-Selection Code: None
-Location: APA
-Effective Start: 2026-03-06 04:23:00+00:00
-Effective End: 2026-04-02 04:23:00+00:00
-Classification: Classification.FDC
-Account ID: FDC
-Last Updated: 2026-03-06 04:27:00+00:00
-ICAO Location: KAPA
-Text: SID CENTENNIAL, DENVER, CO.
-ROCKIES SEVEN DEPARTURE...
-RIFLE TRANSITION NA EXCEPT FOR ACFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS,
-RIL VOR OUT OF SERVICE. 2603060423-2604020423EST
-================================================================================
-ID: NOTAM_1_80292640
-Number: 03/138
-Type: NotamType.N
-Issued: 2026-03-06 16:55:00+00:00
-Selection Code: None
-Location: DVV
-Effective Start: 2026-03-06 16:51:00+00:00
-Effective End: 2026-03-13 20:00:00+00:00
-Classification: Classification.DOM
-Account ID: DEN
-Last Updated: 2026-03-06 17:01:00+00:00
-ICAO Location: None
-Text: NAV TACAN U/S
-================================================================================
-ID: NOTAM_1_80292776
-Number: A1755/26
-Type: NotamType.N
-Issued: 2026-03-06 17:01:00+00:00
-Selection Code: QNNAS
-Location: DEN
-Effective Start: 2026-03-06 16:51:00+00:00
-Effective End: 2026-03-13 20:00:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 17:01:00+00:00
-ICAO Location: KDEN
-Text: /DVV/ NAV TACAN U/S
-================================================================================
-ID: NOTAM_1_80294298
-Number: 03/030
-Type: NotamType.N
-Issued: 2026-03-06 18:46:00+00:00
-Selection Code: None
-Location: BJC
-Effective Start: 2026-03-06 18:46:00+00:00
-Effective End: 2026-03-20 20:00:00+00:00
-Classification: Classification.DOM
-Account ID: BJC
-Last Updated: 2026-03-06 19:22:00+00:00
-ICAO Location: KBJC
-Text: NAV ILS RWY 30R GP U/S
-================================================================================
-ID: NOTAM_1_80294775
-Number: A0575/26
-Type: NotamType.N
-Issued: 2026-03-06 19:21:00+00:00
-Selection Code: QIGAS
-Location: BJC
-Effective Start: 2026-03-06 18:46:00+00:00
-Effective End: 2026-03-20 20:00:00+00:00
-Classification: Classification.INTL
-Account ID: KBJC
-Last Updated: 2026-03-06 19:22:00+00:00
-ICAO Location: KBJC
-Text: BJC NAV ILS RWY 30R GP U/S
-================================================================================
 ID: NOTAM_1_80297242
 Number: A1791/26
 Type: NotamType.N
@@ -9705,34 +10028,6 @@ Last Updated: 2026-03-07 21:09:00+00:00
 ICAO Location: KDEN
 Text: DEN TWY D EDGE LGT BTN TWY WB AND TWY D3 NOT STD
 ================================================================================
-ID: NOTAM_1_80312718
-Number: 03/089
-Type: NotamType.N
-Issued: 2026-03-08 13:57:00+00:00
-Selection Code: None
-Location: APA
-Effective Start: 2026-03-08 13:57:00+00:00
-Effective End: 2026-03-09 21:30:00+00:00
-Classification: Classification.DOM
-Account ID: APA
-Last Updated: 2026-03-08 14:05:00+00:00
-ICAO Location: KAPA
-Text: RWY 10 PAPI U/S
-================================================================================
-ID: NOTAM_1_80312770
-Number: A1064/26
-Type: NotamType.N
-Issued: 2026-03-08 14:04:00+00:00
-Selection Code: QLPAS
-Location: APA
-Effective Start: 2026-03-08 13:57:00+00:00
-Effective End: 2026-03-09 21:30:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-08 14:05:00+00:00
-ICAO Location: KAPA
-Text: APA RWY 10 PAPI U/S
-================================================================================
 ID: NOTAM_1_80313379
 Number: 03/256
 Type: NotamType.N
@@ -9762,264 +10057,383 @@ ICAO Location: KDEN
 Text: DEN TWY B4 BTN DEICE PAD WA SOUTH ACCESS AND TWY WA NORTHWEST EDGE
 IRREGULAR SFC
 ================================================================================
-ID: NOTAM_1_80313991
-Number: 03/258
+ID: NOTAM_1_80318408
+Number: 03/096
 Type: NotamType.N
-Issued: 2026-03-08 17:48:00+00:00
-Selection Code: None
-Location: DEN
-Effective Start: 2026-03-08 17:48:00+00:00
-Effective End: 2026-03-09 17:48:00+00:00
-Classification: Classification.DOM
-Account ID: DEN
-Last Updated: 2026-03-08 17:54:00+00:00
-ICAO Location: KDEN
-Text: TWY ALL FICON 5IN SNOWBANKS OBS AT 2603081748.
-================================================================================
-ID: NOTAM_1_80314022
-Number: A1928/26
-Type: NotamType.N
-Issued: 2026-03-08 17:54:00+00:00
-Selection Code: QMXXX
-Location: DEN
-Effective Start: 2026-03-08 17:48:00+00:00
-Effective End: 2026-03-09 17:48:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-08 17:54:00+00:00
-ICAO Location: KDEN
-Text: DEN TWY ALL FICON 5IN SNOWBANKS OBS AT 2603081748.
-================================================================================
-ID: NOTAM_1_80314388
-Number: 03/260
-Type: NotamType.N
-Issued: 2026-03-08 19:06:00+00:00
-Selection Code: None
-Location: DEN
-Effective Start: 2026-03-08 19:06:00+00:00
-Effective End: 2026-03-09 19:06:00+00:00
-Classification: Classification.DOM
-Account ID: DEN
-Last Updated: 2026-03-08 19:13:00+00:00
-ICAO Location: KDEN
-Text: APRON ALL FICON PATCHY 3IN WATER OBS AT 2603081906.
-================================================================================
-ID: NOTAM_1_80314422
-Number: A1931/26
-Type: NotamType.N
-Issued: 2026-03-08 19:13:00+00:00
-Selection Code: QMNXX
-Location: DEN
-Effective Start: 2026-03-08 19:06:00+00:00
-Effective End: 2026-03-09 19:06:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-08 19:13:00+00:00
-ICAO Location: KDEN
-Text: DEN APRON ALL FICON PATCHY 3IN WATER OBS AT 2603081906.
-================================================================================
-ID: NOTAM_1_80316099
-Number: 03/266
-Type: NotamType.N
-Issued: 2026-03-09 01:58:00+00:00
-Selection Code: None
-Location: DEN
-Effective Start: 2026-03-09 01:58:00+00:00
-Effective End: 2026-03-16 23:59:00+00:00
-Classification: Classification.DOM
-Account ID: DEN
-Last Updated: 2026-03-09 01:58:00+00:00
-ICAO Location: KDEN
-Text: TWY WC HLDG PSN SIGN BTN TWY F AND RWY 16L/34R LGT U/S
-================================================================================
-ID: NOTAM_1_80316163
-Number: 03/092
-Type: NotamType.N
-Issued: 2026-03-09 02:12:00+00:00
+Issued: 2026-03-09 09:20:00+00:00
 Selection Code: None
 Location: APA
-Effective Start: 2026-03-09 02:12:00+00:00
-Effective End: 2026-03-10 02:12:00+00:00
+Effective Start: 2026-03-09 09:17:00+00:00
+Effective End: 2026-03-17 20:00:00+00:00
 Classification: Classification.DOM
 Account ID: APA
-Last Updated: 2026-03-09 02:19:00+00:00
+Last Updated: 2026-03-09 09:27:00+00:00
 ICAO Location: KAPA
-Text: APRON AREA H RAMP FICON 3IN WINDROWS OBS AT 2603090212.
+Text: RWY 28 RWY END ID LGT U/S
 ================================================================================
-ID: NOTAM_1_80316166
-Number: 03/093
+ID: NOTAM_1_80318458
+Number: A1077/26
 Type: NotamType.N
-Issued: 2026-03-09 02:13:00+00:00
+Issued: 2026-03-09 09:26:00+00:00
+Selection Code: QLIAS
+Location: APA
+Effective Start: 2026-03-09 09:17:00+00:00
+Effective End: 2026-03-17 20:00:00+00:00
+Classification: Classification.INTL
+Account ID: KAPA
+Last Updated: 2026-03-09 09:27:00+00:00
+ICAO Location: KAPA
+Text: APA RWY 28 RWY END ID LGT U/S
+================================================================================
+ID: NOTAM_1_80322131
+Number: 6/5494
+Type: NotamType.N
+Issued: 2026-03-09 14:42:00+00:00
+Selection Code: None
+Location: BJC
+Effective Start: 2026-03-10 15:00:00+00:00
+Effective End: 2026-03-17 14:41:00+00:00
+Classification: Classification.FDC
+Account ID: FDC
+Last Updated: 2026-03-09 14:45:00+00:00
+ICAO Location: KBJC
+Text: SID ROCKY MOUNTAIN METRO, DENVER, CO.
+PIKES THREE DEPARTURE...
+PUEBLO TRANSITION NA EXCEPT FOR AIRCRAFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS,
+BRK VOR/DME OUT OF SERVICE. 2603101500-2603171441EST
+================================================================================
+ID: NOTAM_1_80322133
+Number: 6/5495
+Type: NotamType.N
+Issued: 2026-03-09 14:42:00+00:00
 Selection Code: None
 Location: APA
-Effective Start: 2026-03-09 02:13:00+00:00
-Effective End: 2026-03-10 02:13:00+00:00
+Effective Start: 2026-03-10 15:00:00+00:00
+Effective End: 2026-03-17 14:41:00+00:00
+Classification: Classification.FDC
+Account ID: FDC
+Last Updated: 2026-03-09 14:45:00+00:00
+ICAO Location: KAPA
+Text: SID CENTENNIAL, DENVER, CO.
+PIKES THREE DEPARTURE...
+PUEBLO TRANSITION NA EXCEPT FOR AIRCRAFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS,
+BRK VOR/DME OUT OF SERVICE. 2603101500-2603171441EST
+================================================================================
+ID: NOTAM_1_80322134
+Number: 6/5496
+Type: NotamType.N
+Issued: 2026-03-09 14:42:00+00:00
+Selection Code: None
+Location: DEN
+Effective Start: 2026-03-10 15:00:00+00:00
+Effective End: 2026-03-17 14:41:00+00:00
+Classification: Classification.FDC
+Account ID: FDC
+Last Updated: 2026-03-09 14:45:00+00:00
+ICAO Location: KDEN
+Text: SID DENVER INTL, DENVER, CO.
+PIKES THREE DEPARTURE...
+PUEBLO TRANSITION NA EXCEPT FOR AIRCRAFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS,
+BRK VOR/DME OUT OF SERVICE. 2603101500-2603171441EST
+================================================================================
+ID: NOTAM_1_80322139
+Number: 6/5501
+Type: NotamType.N
+Issued: 2026-03-09 14:42:00+00:00
+Selection Code: None
+Location: BKF
+Effective Start: 2026-03-10 15:00:00+00:00
+Effective End: 2026-03-17 14:41:00+00:00
+Classification: Classification.FDC
+Account ID: FDC
+Last Updated: 2026-03-09 14:42:00+00:00
+ICAO Location: KBKF
+Text: SID BUCKLEY SPACE FORCE BASE, AURORA, CO.
+PIKES THREE DEPARTURE...
+PUEBLO TRANSITION NA EXCEPT FOR ACFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS,
+BRK VOR/DME OUT OF SERVICE. 2603101500-2603171441EST
+================================================================================
+ID: NOTAM_1_80322399
+Number: 6/5553
+Type: NotamType.N
+Issued: 2026-03-09 14:52:00+00:00
+Selection Code: None
+Location: BKF
+Effective Start: 2026-03-10 15:00:00+00:00
+Effective End: 2026-03-17 14:51:00+00:00
+Classification: Classification.FDC
+Account ID: FDC
+Last Updated: 2026-03-09 14:52:00+00:00
+ICAO Location: KBKF
+Text: SID BUCKLEY SPACE FORCE BASE, AURORA, CO.
+PLAINS TWO DEPARTURE...
+CABET TRANSITION DME REQUIRED EXCEPT FOR ACFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS.
+GOODLAND TRANSITION NA EXCEPT FOR ACFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS,
+GLD VORTAC OUT OF SERVICE. 2603101500-2603171451EST
+================================================================================
+ID: NOTAM_1_80322400
+Number: 6/5556
+Type: NotamType.N
+Issued: 2026-03-09 14:52:00+00:00
+Selection Code: None
+Location: APA
+Effective Start: 2026-03-10 15:00:00+00:00
+Effective End: 2026-03-17 14:51:00+00:00
+Classification: Classification.FDC
+Account ID: FDC
+Last Updated: 2026-03-09 14:54:00+00:00
+ICAO Location: KAPA
+Text: SID CENTENNIAL, DENVER, CO.
+PLAINS TWO DEPARTURE...
+CABET TRANSITION DME REQUIRED EXCEPT FOR ACFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS.
+GOODLAND TRANSITION NA EXCEPT FOR ACFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS,
+GLD VORTAC OUT OF SERVICE. 2603101500-2603171451EST
+================================================================================
+ID: NOTAM_1_80322401
+Number: 6/5557
+Type: NotamType.N
+Issued: 2026-03-09 14:52:00+00:00
+Selection Code: None
+Location: BJC
+Effective Start: 2026-03-10 15:00:00+00:00
+Effective End: 2026-03-17 14:51:00+00:00
+Classification: Classification.FDC
+Account ID: FDC
+Last Updated: 2026-03-09 14:54:00+00:00
+ICAO Location: KBJC
+Text: SID ROCKY MOUNTAIN METRO, DENVER, CO.
+PLAINS TWO DEPARTURE...
+CABET TRANSITION DME REQUIRED EXCEPT FOR ACFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS.
+GOODLAND TRANSITION NA EXCEPT FOR ACFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS,
+GLD VORTAC OUT OF SERVICE. 2603101500-2603171451EST
+================================================================================
+ID: NOTAM_1_80322402
+Number: 6/5558
+Type: NotamType.N
+Issued: 2026-03-09 14:52:00+00:00
+Selection Code: None
+Location: DEN
+Effective Start: 2026-03-10 15:00:00+00:00
+Effective End: 2026-03-17 14:51:00+00:00
+Classification: Classification.FDC
+Account ID: FDC
+Last Updated: 2026-03-09 14:54:00+00:00
+ICAO Location: KDEN
+Text: SID DENVER INTL, DENVER, CO.
+PLAINS TWO DEPARTURE...
+CABET TRANSITION DME REQUIRED EXCEPT FOR ACFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS.
+GOODLAND TRANSITION NA EXCEPT FOR ACFT EQUIPPED WITH SUITABLE RNAV SYSTEM WITH GPS,
+GLD VORTAC OUT OF SERVICE. 2603101500-2603171451EST
+================================================================================
+ID: NOTAM_1_80324656
+Number: 03/100
+Type: NotamType.N
+Issued: 2026-03-09 17:42:00+00:00
+Selection Code: None
+Location: APA
+Effective Start: 2026-03-10 16:00:00+00:00
+Effective End: 2026-03-10 18:00:00+00:00
 Classification: Classification.DOM
 Account ID: APA
-Last Updated: 2026-03-09 02:19:00+00:00
+Last Updated: 2026-03-09 17:48:00+00:00
 ICAO Location: KAPA
-Text: APRON AREA G RAMP FICON 3IN WINDROWS OBS AT 2603090213.
+Text: RWY 35L PAPI U/S
 ================================================================================
-ID: NOTAM_1_80316193
-Number: A1071/26
+ID: NOTAM_1_80324780
+Number: A1088/26
 Type: NotamType.N
-Issued: 2026-03-09 02:18:00+00:00
-Selection Code: QMNXX
+Issued: 2026-03-09 17:48:00+00:00
+Selection Code: QLPAS
 Location: APA
-Effective Start: 2026-03-09 02:12:00+00:00
-Effective End: 2026-03-10 02:12:00+00:00
+Effective Start: 2026-03-10 16:00:00+00:00
+Effective End: 2026-03-10 18:00:00+00:00
 Classification: Classification.INTL
 Account ID: KAPA
-Last Updated: 2026-03-09 02:19:00+00:00
+Last Updated: 2026-03-09 17:48:00+00:00
 ICAO Location: KAPA
-Text: APA APRON AREA H RAMP FICON 3IN WINDROWS OBS AT 2603090212.
+Text: APA RWY 35L PAPI U/S
 ================================================================================
-ID: NOTAM_1_80316194
-Number: A1072/26
+ID: NOTAM_1_80324928
+Number: 03/282
 Type: NotamType.N
-Issued: 2026-03-09 02:19:00+00:00
+Issued: 2026-03-09 18:02:00+00:00
+Selection Code: None
+Location: BDU
+Effective Start: 2026-03-10 15:00:00+00:00
+Effective End: 2026-03-10 18:30:00+00:00
+Classification: Classification.DOM
+Account ID: DEN
+Last Updated: 2026-03-09 18:02:00+00:00
+ICAO Location: KBDU
+Text: AIRSPACE UNMANNED FREE BALLOON 395928N1051546W (3.5NM SSW BDU) SFC-FL950 EB
+================================================================================
+ID: NOTAM_1_80325348
+Number: 03/285
+Type: NotamType.N
+Issued: 2026-03-09 18:48:00+00:00
+Selection Code: None
+Location: DEN
+Effective Start: 2026-03-10 14:00:00+00:00
+Effective End: 2026-03-10 18:00:00+00:00
+Classification: Classification.DOM
+Account ID: DEN
+Last Updated: 2026-03-09 18:59:00+00:00
+ICAO Location: KDEN
+Text: NAV ILS RWY 35R DME U/S
+================================================================================
+ID: NOTAM_1_80325349
+Number: 03/286
+Type: NotamType.N
+Issued: 2026-03-09 18:48:00+00:00
+Selection Code: None
+Location: DEN
+Effective Start: 2026-03-10 14:00:00+00:00
+Effective End: 2026-03-10 18:00:00+00:00
+Classification: Classification.DOM
+Account ID: DEN
+Last Updated: 2026-03-09 18:59:00+00:00
+ICAO Location: KDEN
+Text: NAV ILS RWY 17L DME U/S
+================================================================================
+ID: NOTAM_1_80325439
+Number: A1960/26
+Type: NotamType.N
+Issued: 2026-03-09 18:58:00+00:00
+Selection Code: QIDAS
+Location: DEN
+Effective Start: 2026-03-10 14:00:00+00:00
+Effective End: 2026-03-10 18:00:00+00:00
+Classification: Classification.INTL
+Account ID: KDEN
+Last Updated: 2026-03-09 18:59:00+00:00
+ICAO Location: KDEN
+Text: DEN NAV ILS RWY 35R DME U/S
+================================================================================
+ID: NOTAM_1_80325447
+Number: A1961/26
+Type: NotamType.N
+Issued: 2026-03-09 18:58:00+00:00
+Selection Code: QIDAS
+Location: DEN
+Effective Start: 2026-03-10 14:00:00+00:00
+Effective End: 2026-03-10 18:00:00+00:00
+Classification: Classification.INTL
+Account ID: KDEN
+Last Updated: 2026-03-09 18:59:00+00:00
+ICAO Location: KDEN
+Text: DEN NAV ILS RWY 17L DME U/S
+================================================================================
+ID: NOTAM_1_80326519
+Number: 03/288
+Type: NotamType.N
+Issued: 2026-03-09 21:00:00+00:00
+Selection Code: None
+Location: LMO
+Effective Start: 2026-03-10 12:30:00+00:00
+Effective End: 2026-03-10 22:00:00+00:00
+Classification: Classification.DOM
+Account ID: DEN
+Last Updated: 2026-03-09 21:00:00+00:00
+ICAO Location: KLMO
+Text: RWY 11 VASI U/S
+================================================================================
+ID: NOTAM_1_80326540
+Number: 03/289
+Type: NotamType.N
+Issued: 2026-03-09 21:03:00+00:00
+Selection Code: None
+Location: LMO
+Effective Start: 2026-03-10 12:30:00+00:00
+Effective End: 2026-03-10 22:00:00+00:00
+Classification: Classification.DOM
+Account ID: DEN
+Last Updated: 2026-03-09 21:03:00+00:00
+ICAO Location: KLMO
+Text: RWY 29 VASI U/S
+================================================================================
+ID: NOTAM_1_80326786
+Number: 03/045
+Type: NotamType.N
+Issued: 2026-03-09 21:27:00+00:00
+Selection Code: None
+Location: BJC
+Effective Start: 2026-03-10 16:00:00+00:00
+Effective End: 2026-03-10 20:00:00+00:00
+Classification: Classification.DOM
+Account ID: BJC
+Last Updated: 2026-03-09 21:36:00+00:00
+ICAO Location: KBJC
+Text: RWY 30R ALS U/S
+================================================================================
+ID: NOTAM_1_80326854
+Number: A0608/26
+Type: NotamType.N
+Issued: 2026-03-09 21:35:00+00:00
+Selection Code: QLAAS
+Location: BJC
+Effective Start: 2026-03-10 16:00:00+00:00
+Effective End: 2026-03-10 20:00:00+00:00
+Classification: Classification.INTL
+Account ID: KBJC
+Last Updated: 2026-03-09 21:36:00+00:00
+ICAO Location: KBJC
+Text: BJC RWY 30R ALS U/S
+================================================================================
+ID: NOTAM_1_80328100
+Number: 03/101
+Type: NotamType.N
+Issued: 2026-03-10 00:53:00+00:00
+Selection Code: None
+Location: APA
+Effective Start: 2026-03-10 00:53:00+00:00
+Effective End: 2026-03-11 00:53:00+00:00
+Classification: Classification.DOM
+Account ID: APA
+Last Updated: 2026-03-10 01:00:00+00:00
+ICAO Location: KAPA
+Text: APRON AREA G RAMP FICON 3IN WINDROWS OBS AT 2603100053.
+================================================================================
+ID: NOTAM_1_80328102
+Number: 03/102
+Type: NotamType.N
+Issued: 2026-03-10 00:54:00+00:00
+Selection Code: None
+Location: APA
+Effective Start: 2026-03-10 00:54:00+00:00
+Effective End: 2026-03-11 00:54:00+00:00
+Classification: Classification.DOM
+Account ID: APA
+Last Updated: 2026-03-10 01:00:00+00:00
+ICAO Location: KAPA
+Text: APRON AREA H RAMP FICON 3IN WINDROWS OBS AT 2603100054.
+================================================================================
+ID: NOTAM_1_80328147
+Number: A1091/26
+Type: NotamType.N
+Issued: 2026-03-10 01:00:00+00:00
 Selection Code: QMNXX
 Location: APA
-Effective Start: 2026-03-09 02:13:00+00:00
-Effective End: 2026-03-10 02:13:00+00:00
+Effective Start: 2026-03-10 00:53:00+00:00
+Effective End: 2026-03-11 00:53:00+00:00
 Classification: Classification.INTL
 Account ID: KAPA
-Last Updated: 2026-03-09 02:19:00+00:00
+Last Updated: 2026-03-10 01:00:00+00:00
 ICAO Location: KAPA
-Text: APA APRON AREA G RAMP FICON 3IN WINDROWS OBS AT 2603090213.
+Text: APA APRON AREA G RAMP FICON 3IN WINDROWS OBS AT 2603100053.
 ================================================================================
-ID: NOTAM_1_80290452
-Number: A0425/26
-Type: NotamType.C
-Issued: 2026-03-06 14:55:00+00:00
-Selection Code: QICXX
-Location: OKC
-Effective Start: 2026-03-06 14:55:00+00:00
-Effective End: 2026-03-09 14:55:00+00:00
+ID: NOTAM_1_80328150
+Number: A1092/26
+Type: NotamType.N
+Issued: 2026-03-10 01:00:00+00:00
+Selection Code: QMNXX
+Location: APA
+Effective Start: 2026-03-10 00:54:00+00:00
+Effective End: 2026-03-11 00:54:00+00:00
 Classification: Classification.INTL
-Account ID: KOKC
-Last Updated: 2026-03-06 14:55:00+00:00
-ICAO Location: KOKC
-Text: A0425/26 NOTAMC A0420/26 
-Q) KZFW/QICXX////000/999/3524N09736W005 
-A) KOKC
-B) 2603061455
-E)  OKC NAV ILS RWY 35L U/S
-CANCELED
-================================================================================
-ID: NOTAM_1_80290465
-Number: A0426/26
-Type: NotamType.C
-Issued: 2026-03-06 14:55:00+00:00
-Selection Code: QICXX
-Location: OKC
-Effective Start: 2026-03-06 14:55:00+00:00
-Effective End: 2026-03-09 14:55:00+00:00
-Classification: Classification.INTL
-Account ID: KOKC
-Last Updated: 2026-03-06 14:56:00+00:00
-ICAO Location: KOKC
-Text: A0426/26 NOTAMC A0421/26 
-Q) KZFW/QICXX////000/999/3524N09736W005 
-A) KOKC
-B) 2603061455
-E)  OKC NAV ILS RWY 17R U/S
-CANCELED
-================================================================================
-ID: NOTAM_1_80290518
-Number: A0427/26
-Type: NotamType.C
-Issued: 2026-03-06 14:58:00+00:00
-Selection Code: QICXX
-Location: OKC
-Effective Start: 2026-03-06 14:58:00+00:00
-Effective End: 2026-03-09 14:58:00+00:00
-Classification: Classification.INTL
-Account ID: KOKC
-Last Updated: 2026-03-06 14:59:00+00:00
-ICAO Location: KOKC
-Text: A0427/26 NOTAMC A0422/26 
-Q) KZFW/QICXX////000/999/3524N09736W005 
-A) KOKC
-B) 2603061458
-E)  OKC NAV ILS RWY 17L U/S
-CANCELED
-================================================================================
-ID: NOTAM_1_80290519
-Number: A0428/26
-Type: NotamType.C
-Issued: 2026-03-06 14:58:00+00:00
-Selection Code: QICXX
-Location: OKC
-Effective Start: 2026-03-06 14:58:00+00:00
-Effective End: 2026-03-09 14:58:00+00:00
-Classification: Classification.INTL
-Account ID: KOKC
-Last Updated: 2026-03-06 14:59:00+00:00
-ICAO Location: KOKC
-Text: A0428/26 NOTAMC A0423/26 
-Q) KZFW/QICXX////000/999/3524N09736W005 
-A) KOKC
-B) 2603061458
-E)  OKC NAV ILS RWY 35R U/S
-CANCELED
-================================================================================
-ID: NOTAM_1_80295744
-Number: A0435/26
-Type: NotamType.C
-Issued: 2026-03-06 20:28:00+00:00
-Selection Code: QMRXX
-Location: OKC
-Effective Start: 2026-03-06 20:28:00+00:00
-Effective End: 2026-03-09 20:28:00+00:00
-Classification: Classification.INTL
-Account ID: KOKC
-Last Updated: 2026-03-06 20:28:00+00:00
-ICAO Location: KOKC
-Text: A0435/26 NOTAMC A0430/26 
-Q) KZFW/QMRXX////000/999/3524N09736W005 
-A) KOKC
-B) 2603062028
-E)  OKC RWY 17R FICON 5/5/5 100 PCT WET OBS AT 2603061519.
-CANCELED
-================================================================================
-ID: NOTAM_1_80295756
-Number: A0436/26
-Type: NotamType.C
-Issued: 2026-03-06 20:28:00+00:00
-Selection Code: QMRXX
-Location: OKC
-Effective Start: 2026-03-06 20:28:00+00:00
-Effective End: 2026-03-09 20:28:00+00:00
-Classification: Classification.INTL
-Account ID: KOKC
-Last Updated: 2026-03-06 20:29:00+00:00
-ICAO Location: KOKC
-Text: A0436/26 NOTAMC A0429/26 
-Q) KZFW/QMRXX////000/999/3524N09736W005 
-A) KOKC
-B) 2603062028
-E)  OKC RWY 17L FICON 5/5/5 100 PCT WET OBS AT 2603061518.
-CANCELED
-================================================================================
-ID: NOTAM_1_80295757
-Number: A0437/26
-Type: NotamType.C
-Issued: 2026-03-06 20:28:00+00:00
-Selection Code: QMRXX
-Location: OKC
-Effective Start: 2026-03-06 20:28:00+00:00
-Effective End: 2026-03-09 20:28:00+00:00
-Classification: Classification.INTL
-Account ID: KOKC
-Last Updated: 2026-03-06 20:29:00+00:00
-ICAO Location: KOKC
-Text: A0437/26 NOTAMC A0431/26 
-Q) KZFW/QMRXX////000/999/3524N09736W005 
-A) KOKC
-B) 2603062028
-E)  OKC RWY 13 FICON 5/5/5 100 PCT WET OBS AT 2603061520.
-CANCELED
+Account ID: KAPA
+Last Updated: 2026-03-10 01:00:00+00:00
+ICAO Location: KAPA
+Text: APA APRON AREA H RAMP FICON 3IN WINDROWS OBS AT 2603100054.
 ================================================================================
 ID: NOTAM_1_80304893
 Number: A0156/26
@@ -10095,1607 +10509,6 @@ Q) KZFW/QICXX////000/999/3524N09736W005
 A) KOKC
 B) 2603071943
 E)  OKC NAV ILS RWY 17R U/S
-CANCELED
-================================================================================
-ID: NOTAM_1_80285313
-Number: A1718/26
-Type: NotamType.C
-Issued: 2026-03-06 08:46:00+00:00
-Selection Code: QMXXX
-Location: DEN
-Effective Start: 2026-03-06 08:46:00+00:00
-Effective End: 2026-03-09 08:46:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 08:47:00+00:00
-ICAO Location: KDEN
-Text: A1718/26 NOTAMC A1713/26 
-Q) KZDV/QMXXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603060846
-E)  DEN TWY CN EDGE REFLECTOR TAPE BTN TWY J AND TWY H NOT STD NORTH
-CANCELED
-================================================================================
-ID: NOTAM_1_80286380
-Number: A1720/26
-Type: NotamType.C
-Issued: 2026-03-06 10:31:00+00:00
-Selection Code: QMXXX
-Location: DEN
-Effective Start: 2026-03-06 10:31:00+00:00
-Effective End: 2026-03-09 10:31:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 10:31:00+00:00
-ICAO Location: KDEN
-Text: A1720/26 NOTAMC A1716/26 
-Q) KZDV/QMXXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603061031
-E)  DEN TWY R, R1, R2, R3, R4, R6, R7, R8, TWY EF BTN DEICE PAD E AND
-CANCELED
-================================================================================
-ID: NOTAM_1_80290016
-Number: A0916/26
-Type: NotamType.C
-Issued: 2026-03-06 14:29:00+00:00
-Selection Code: QMRXX
-Location: APA
-Effective Start: 2026-03-06 14:29:00+00:00
-Effective End: 2026-03-09 14:29:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 14:29:00+00:00
-ICAO Location: KAPA
-Text: A0916/26 NOTAMC A0913/26 
-Q) KZDV/QMRXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603061429
-E)  APA RWY 35R FICON 5/5/5 100 PCT WET OBS AT 2603061346.
-CANCELED
-================================================================================
-ID: NOTAM_1_80290129
-Number: A0917/26
-Type: NotamType.C
-Issued: 2026-03-06 14:36:00+00:00
-Selection Code: QMRXX
-Location: APA
-Effective Start: 2026-03-06 14:36:00+00:00
-Effective End: 2026-03-09 14:36:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 14:37:00+00:00
-ICAO Location: KAPA
-Text: A0917/26 NOTAMC A0914/26 
-Q) KZDV/QMRXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603061436
-E)  APA RWY 35L FICON 5/5/5 100 PCT WET OBS AT 2603061346.
-CANCELED
-================================================================================
-ID: NOTAM_1_80290146
-Number: A0918/26
-Type: NotamType.C
-Issued: 2026-03-06 14:37:00+00:00
-Selection Code: QMRXX
-Location: APA
-Effective Start: 2026-03-06 14:37:00+00:00
-Effective End: 2026-03-09 14:37:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 14:38:00+00:00
-ICAO Location: KAPA
-Text: A0918/26 NOTAMC A0915/26 
-Q) KZDV/QMRXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603061437
-E)  APA RWY 28 FICON 5/5/5 100 PCT WET OBS AT 2603061347.
-CANCELED
-================================================================================
-ID: NOTAM_1_80290491
-Number: A0924/26
-Type: NotamType.C
-Issued: 2026-03-06 14:57:00+00:00
-Selection Code: QMRXX
-Location: APA
-Effective Start: 2026-03-06 14:57:00+00:00
-Effective End: 2026-03-09 14:57:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 14:58:00+00:00
-ICAO Location: KAPA
-Text: A0924/26 NOTAMC A0920/26 
-Q) KZDV/QMRXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603061457
-E)  APA RWY 35L FICON 5/5/5 100 PCT 1/8IN WET SN OBS AT 2603061436.
-CANCELED
-================================================================================
-ID: NOTAM_1_80290493
-Number: A0926/26
-Type: NotamType.C
-Issued: 2026-03-06 14:57:00+00:00
-Selection Code: QMRXX
-Location: APA
-Effective Start: 2026-03-06 14:57:00+00:00
-Effective End: 2026-03-09 14:57:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 14:58:00+00:00
-ICAO Location: KAPA
-Text: A0926/26 NOTAMC A0921/26 
-Q) KZDV/QMRXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603061457
-E)  APA RWY 28 FICON 5/5/5 100 PCT 1/8IN WET SN OBS AT 2603061437.
-CANCELED
-================================================================================
-ID: NOTAM_1_80290494
-Number: A0927/26
-Type: NotamType.C
-Issued: 2026-03-06 14:58:00+00:00
-Selection Code: QMXXX
-Location: APA
-Effective Start: 2026-03-06 14:58:00+00:00
-Effective End: 2026-03-09 14:58:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 14:58:00+00:00
-ICAO Location: KAPA
-Text: A0927/26 NOTAMC A0923/26 
-Q) KZDV/QMXXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603061458
-E)  APA TWY ALL FICON 1/8IN DRY SN OBS AT 2603061439.
-CANCELED
-================================================================================
-ID: NOTAM_1_80290857
-Number: A0933/26
-Type: NotamType.C
-Issued: 2026-03-06 15:14:00+00:00
-Selection Code: QMXXX
-Location: APA
-Effective Start: 2026-03-06 15:14:00+00:00
-Effective End: 2026-03-09 15:14:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 15:14:00+00:00
-ICAO Location: KAPA
-Text: A0933/26 NOTAMC A0932/26 
-Q) KZDV/QMXXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603061514
-E)  APA TWY A FICON 1/8IN WET SN OBS AT 2603061458.
-CANCELED
-================================================================================
-ID: NOTAM_1_80290951
-Number: A0934/26
-Type: NotamType.C
-Issued: 2026-03-06 15:19:00+00:00
-Selection Code: QMRXX
-Location: APA
-Effective Start: 2026-03-06 15:19:00+00:00
-Effective End: 2026-03-09 15:19:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 15:19:00+00:00
-ICAO Location: KAPA
-Text: A0934/26 NOTAMC A0919/26 
-Q) KZDV/QMRXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603061519
-E)  APA RWY 35R FICON 5/5/5 100 PCT 1/8IN WET SN OBS AT 2603061429.
-CANCELED
-================================================================================
-ID: NOTAM_1_80290991
-Number: A1736/26
-Type: NotamType.C
-Issued: 2026-03-06 15:21:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-06 15:21:00+00:00
-Effective End: 2026-03-09 15:21:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 15:21:00+00:00
-ICAO Location: KDEN
-Text: A1736/26 NOTAMC A1722/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603061521
-E)  DEN RWY 34L FICON 5/5/5 100 PCT WET OBS AT 2603061419.
-CANCELED
-================================================================================
-ID: NOTAM_1_80291238
-Number: A0937/26
-Type: NotamType.C
-Issued: 2026-03-06 15:32:00+00:00
-Selection Code: QMNXX
-Location: APA
-Effective Start: 2026-03-06 15:32:00+00:00
-Effective End: 2026-03-09 15:32:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 15:33:00+00:00
-ICAO Location: KAPA
-Text: A0937/26 NOTAMC A0925/26 
-Q) KZDV/QMNXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603061532
-E)  APA APRON ALL FICON 1/8IN WET SN OBS AT 2603061440.
-CANCELED
-================================================================================
-ID: NOTAM_1_80291325
-Number: A0938/26
-Type: NotamType.C
-Issued: 2026-03-06 15:41:00+00:00
-Selection Code: QMRXX
-Location: APA
-Effective Start: 2026-03-06 15:41:00+00:00
-Effective End: 2026-03-09 15:41:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 15:41:00+00:00
-ICAO Location: KAPA
-Text: A0938/26 NOTAMC A0936/26 
-Q) KZDV/QMRXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603061541
-E)  APA RWY 35R FICON 3/3/3 100 PCT 1/2IN WET SN OBS AT 2603061519.
-CANCELED
-================================================================================
-ID: NOTAM_1_80291343
-Number: A0939/26
-Type: NotamType.C
-Issued: 2026-03-06 15:43:00+00:00
-Selection Code: QMXXX
-Location: APA
-Effective Start: 2026-03-06 15:43:00+00:00
-Effective End: 2026-03-09 15:43:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 15:44:00+00:00
-ICAO Location: KAPA
-Text: A0939/26 NOTAMC A0935/26 
-Q) KZDV/QMXXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603061543
-E)  APA TWY A FICON 1/2IN WET SN OBS AT 2603061514.
-CANCELED
-================================================================================
-ID: NOTAM_1_80291410
-Number: A1738/26
-Type: NotamType.C
-Issued: 2026-03-06 15:46:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-06 15:46:00+00:00
-Effective End: 2026-03-09 15:46:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 15:47:00+00:00
-ICAO Location: KDEN
-Text: A1738/26 NOTAMC A1723/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603061546
-E)  DEN RWY 35L FICON 5/5/5 100 PCT WET OBS AT 2603061420.
-CANCELED
-================================================================================
-ID: NOTAM_1_80291499
-Number: A0556/26
-Type: NotamType.C
-Issued: 2026-03-06 15:52:00+00:00
-Selection Code: QMRXX
-Location: BJC
-Effective Start: 2026-03-06 15:52:00+00:00
-Effective End: 2026-03-09 15:52:00+00:00
-Classification: Classification.INTL
-Account ID: KBJC
-Last Updated: 2026-03-06 15:53:00+00:00
-ICAO Location: KBJC
-Text: A0556/26 NOTAMC A0549/26 
-Q) KZDV/QMRXX////000/999/3955N10507W005 
-A) KBJC
-B) 2603061552
-E)  BJC RWY 30R FICON 4/4/4 50 PCT 1/8IN WET SN OBS AT 2603061443.
-CANCELED
-================================================================================
-ID: NOTAM_1_80291500
-Number: A0557/26
-Type: NotamType.C
-Issued: 2026-03-06 15:53:00+00:00
-Selection Code: QMXXX
-Location: BJC
-Effective Start: 2026-03-06 15:53:00+00:00
-Effective End: 2026-03-09 15:53:00+00:00
-Classification: Classification.INTL
-Account ID: KBJC
-Last Updated: 2026-03-06 15:53:00+00:00
-ICAO Location: KBJC
-Text: A0557/26 NOTAMC A0553/26 
-Q) KZDV/QMXXX////000/999/3955N10507W005 
-A) KBJC
-B) 2603061553
-E)  BJC TWY ALL FICON PATCHY 1/8IN WET SN OBS AT 2603061457.
-CANCELED
-================================================================================
-ID: NOTAM_1_80291509
-Number: A0558/26
-Type: NotamType.C
-Issued: 2026-03-06 15:53:00+00:00
-Selection Code: QMNXX
-Location: BJC
-Effective Start: 2026-03-06 15:53:00+00:00
-Effective End: 2026-03-09 15:53:00+00:00
-Classification: Classification.INTL
-Account ID: KBJC
-Last Updated: 2026-03-06 15:53:00+00:00
-ICAO Location: KBJC
-Text: A0558/26 NOTAMC A0554/26 
-Q) KZDV/QMNXX////000/999/3955N10507W005 
-A) KBJC
-B) 2603061553
-E)  BJC APRON ALL FICON PATCHY 1/8IN WET SN OBS AT 2603061457.
-CANCELED
-================================================================================
-ID: NOTAM_1_80291739
-Number: A1740/26
-Type: NotamType.C
-Issued: 2026-03-06 16:07:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-06 16:07:00+00:00
-Effective End: 2026-03-09 16:07:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 16:07:00+00:00
-ICAO Location: KDEN
-Text: A1740/26 NOTAMC A1732/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603061607
-E)  DEN RWY 34R FICON 5/5/5 100 PCT WET OBS AT 2603061453.
-CANCELED
-================================================================================
-ID: NOTAM_1_80291869
-Number: A1741/26
-Type: NotamType.C
-Issued: 2026-03-06 16:17:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-06 16:17:00+00:00
-Effective End: 2026-03-09 16:17:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 16:17:00+00:00
-ICAO Location: KDEN
-Text: A1741/26 NOTAMC A1735/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603061617
-E)  DEN RWY 35R FICON 5/5/5 100 PCT WET OBS AT 2603061503.
-CANCELED
-================================================================================
-ID: NOTAM_1_80291991
-Number: A1743/26
-Type: NotamType.C
-Issued: 2026-03-06 16:22:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-06 16:22:00+00:00
-Effective End: 2026-03-09 16:22:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 16:23:00+00:00
-ICAO Location: KDEN
-Text: A1743/26 NOTAMC A1737/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603061622
-E)  DEN RWY 34L FICON 5/5/5 100 PCT WET OBS AT 2603061520.
-CANCELED
-================================================================================
-ID: NOTAM_1_80292174
-Number: A1746/26
-Type: NotamType.C
-Issued: 2026-03-06 16:30:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-06 16:30:00+00:00
-Effective End: 2026-03-09 16:30:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 16:31:00+00:00
-ICAO Location: KDEN
-Text: A1746/26 NOTAMC A1745/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603061630
-E)  DEN RWY 34L FICON 5/5/5 50 PCT 1/8IN WET SN AND 50 PCT 1/8IN
-SLUSH
-CANCELED
-================================================================================
-ID: NOTAM_1_80292341
-Number: A0944/26
-Type: NotamType.C
-Issued: 2026-03-06 16:39:00+00:00
-Selection Code: QMRXX
-Location: APA
-Effective Start: 2026-03-06 16:39:00+00:00
-Effective End: 2026-03-09 16:39:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 16:39:00+00:00
-ICAO Location: KAPA
-Text: A0944/26 NOTAMC A0941/26 
-Q) KZDV/QMRXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603061639
-E)  APA RWY 35R FICON 3/3/3 100 PCT 1/2IN WET SN OBS AT 2603061541.
-CANCELED
-================================================================================
-ID: NOTAM_1_80292344
-Number: A1748/26
-Type: NotamType.C
-Issued: 2026-03-06 16:39:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-06 16:39:00+00:00
-Effective End: 2026-03-09 16:39:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 16:39:00+00:00
-ICAO Location: KDEN
-Text: A1748/26 NOTAMC A1734/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603061639
-E)  DEN RWY 08 FICON 5/5/5 100 PCT WET OBS AT 2603061503.
-CANCELED
-================================================================================
-ID: NOTAM_1_80292547
-Number: A1750/26
-Type: NotamType.C
-Issued: 2026-03-06 16:50:00+00:00
-Selection Code: QMXXX
-Location: DEN
-Effective Start: 2026-03-06 16:50:00+00:00
-Effective End: 2026-03-09 16:50:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 16:50:00+00:00
-ICAO Location: KDEN
-Text: A1750/26 NOTAMC A1731/26 
-Q) KZDV/QMXXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603061650
-E)  DEN TWY ALL FICON WET OBS AT 2603061447.
-CANCELED
-================================================================================
-ID: NOTAM_1_80292571
-Number: A1751/26
-Type: NotamType.C
-Issued: 2026-03-06 16:51:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-06 16:51:00+00:00
-Effective End: 2026-03-09 16:51:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 16:51:00+00:00
-ICAO Location: KDEN
-Text: A1751/26 NOTAMC A1747/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603061651
-E)  DEN RWY 34L FICON 4/4/3 50 PCT 1/8IN WET SN AND 50 PCT 1/8IN
-SLUSH
-CANCELED
-================================================================================
-ID: NOTAM_1_80292602
-Number: A0946/26
-Type: NotamType.C
-Issued: 2026-03-06 16:53:00+00:00
-Selection Code: QMNXX
-Location: APA
-Effective Start: 2026-03-06 16:53:00+00:00
-Effective End: 2026-03-09 16:53:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 16:53:00+00:00
-ICAO Location: KAPA
-Text: A0946/26 NOTAMC A0940/26 
-Q) KZDV/QMNXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603061653
-E)  APA APRON ALL FICON PATCHY 1/8IN WET SN AND PATCHY 1/8IN SLUSH
-OBS
-CANCELED
-================================================================================
-ID: NOTAM_1_80292663
-Number: A1752/26
-Type: NotamType.C
-Issued: 2026-03-06 16:56:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-06 16:56:00+00:00
-Effective End: 2026-03-09 16:56:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 16:56:00+00:00
-ICAO Location: KDEN
-Text: A1752/26 NOTAMC A1742/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603061656
-E)  DEN RWY 34R FICON 4/4/1 50 PCT 1/8IN WET SN AND 50 PCT 1/8IN
-CANCELED
-================================================================================
-ID: NOTAM_1_80293082
-Number: A0948/26
-Type: NotamType.C
-Issued: 2026-03-06 17:18:00+00:00
-Selection Code: QMRXX
-Location: APA
-Effective Start: 2026-03-06 17:18:00+00:00
-Effective End: 2026-03-09 17:18:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 17:19:00+00:00
-ICAO Location: KAPA
-Text: A0948/26 NOTAMC A0945/26 
-Q) KZDV/QMRXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603061718
-E)  APA RWY 35R FICON 3/3/3 100 PCT 1/4IN WET SN OBS AT 2603061639.
-CANCELED
-================================================================================
-ID: NOTAM_1_80293124
-Number: A1757/26
-Type: NotamType.C
-Issued: 2026-03-06 17:21:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-06 17:21:00+00:00
-Effective End: 2026-03-09 17:21:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 17:21:00+00:00
-ICAO Location: KDEN
-Text: A1757/26 NOTAMC A1754/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603061721
-E)  DEN RWY 34L FICON 4/4/3 50 PCT 1/8IN WET SN AND 50 PCT 1/8IN
-SLUSH
-CANCELED
-================================================================================
-ID: NOTAM_1_80293185
-Number: A0564/26
-Type: NotamType.C
-Issued: 2026-03-06 17:24:00+00:00
-Selection Code: QMRXX
-Location: BJC
-Effective Start: 2026-03-06 17:24:00+00:00
-Effective End: 2026-03-09 17:24:00+00:00
-Classification: Classification.INTL
-Account ID: KBJC
-Last Updated: 2026-03-06 17:24:00+00:00
-ICAO Location: KBJC
-Text: A0564/26 NOTAMC A0560/26 
-Q) KZDV/QMRXX////000/999/3955N10507W005 
-A) KBJC
-B) 2603061724
-E)  BJC RWY 30R FICON 3/3/3 100 PCT 1/4IN WET SN OBS AT 2603061552.
-CANCELED
-================================================================================
-ID: NOTAM_1_80293241
-Number: A0950/26
-Type: NotamType.C
-Issued: 2026-03-06 17:27:00+00:00
-Selection Code: QMXXX
-Location: APA
-Effective Start: 2026-03-06 17:27:00+00:00
-Effective End: 2026-03-09 17:27:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 17:27:00+00:00
-ICAO Location: KAPA
-Text: A0950/26 NOTAMC A0942/26 
-Q) KZDV/QMXXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603061727
-E)  APA TWY A FICON 1/4IN WET SN OBS AT 2603061543.
-CANCELED
-================================================================================
-ID: NOTAM_1_80293469
-Number: A0567/26
-Type: NotamType.C
-Issued: 2026-03-06 17:44:00+00:00
-Selection Code: QMXXX
-Location: BJC
-Effective Start: 2026-03-06 17:44:00+00:00
-Effective End: 2026-03-09 17:44:00+00:00
-Classification: Classification.INTL
-Account ID: KBJC
-Last Updated: 2026-03-06 17:44:00+00:00
-ICAO Location: KBJC
-Text: A0567/26 NOTAMC A0561/26 
-Q) KZDV/QMXXX////000/999/3955N10507W005 
-A) KBJC
-B) 2603061744
-E)  BJC TWY ALL FICON 1/4IN WET SN OBS AT 2603061554.
-CANCELED
-================================================================================
-ID: NOTAM_1_80293480
-Number: A0568/26
-Type: NotamType.C
-Issued: 2026-03-06 17:44:00+00:00
-Selection Code: QMNXX
-Location: BJC
-Effective Start: 2026-03-06 17:44:00+00:00
-Effective End: 2026-03-09 17:44:00+00:00
-Classification: Classification.INTL
-Account ID: KBJC
-Last Updated: 2026-03-06 17:45:00+00:00
-ICAO Location: KBJC
-Text: A0568/26 NOTAMC A0562/26 
-Q) KZDV/QMNXX////000/999/3955N10507W005 
-A) KBJC
-B) 2603061744
-E)  BJC APRON ALL FICON 1/4IN WET SN OBS AT 2603061555.
-CANCELED
-================================================================================
-ID: NOTAM_1_80293582
-Number: A1761/26
-Type: NotamType.C
-Issued: 2026-03-06 17:52:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-06 17:52:00+00:00
-Effective End: 2026-03-09 17:52:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 17:53:00+00:00
-ICAO Location: KDEN
-Text: A1761/26 NOTAMC A1721/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603061752
-E)  DEN RWY 25 FICON 5/5/5 100 PCT WET OBS AT 2603061412.
-CANCELED
-================================================================================
-ID: NOTAM_1_80293632
-Number: A1763/26
-Type: NotamType.C
-Issued: 2026-03-06 17:55:00+00:00
-Selection Code: QMXXX
-Location: DEN
-Effective Start: 2026-03-06 17:55:00+00:00
-Effective End: 2026-03-09 17:55:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 17:55:00+00:00
-ICAO Location: KDEN
-Text: A1763/26 NOTAMC A1760/26 
-Q) KZDV/QMXXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603061755
-E)  DEN TWY CC SPOT 7W CLSD
-CANCELED
-================================================================================
-ID: NOTAM_1_80293670
-Number: A0952/26
-Type: NotamType.C
-Issued: 2026-03-06 17:57:00+00:00
-Selection Code: QMRXX
-Location: APA
-Effective Start: 2026-03-06 17:57:00+00:00
-Effective End: 2026-03-09 17:57:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 17:58:00+00:00
-ICAO Location: KAPA
-Text: A0952/26 NOTAMC A0949/26 
-Q) KZDV/QMRXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603061757
-E)  APA RWY 35R FICON 3/3/3 100 PCT 1IN WET SN OBS AT 2603061718.
-CANCELED
-================================================================================
-ID: NOTAM_1_80293701
-Number: A0953/26
-Type: NotamType.C
-Issued: 2026-03-06 18:00:00+00:00
-Selection Code: QMXXX
-Location: APA
-Effective Start: 2026-03-06 18:00:00+00:00
-Effective End: 2026-03-09 18:00:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 18:00:00+00:00
-ICAO Location: KAPA
-Text: A0953/26 NOTAMC A0951/26 
-Q) KZDV/QMXXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603061800
-E)  APA TWY A FICON 1/4IN WET SN BA GOOD TO MEDIUM OBS AT 2603061726.
-CANCELED
-================================================================================
-ID: NOTAM_1_80294026
-Number: A0956/26
-Type: NotamType.C
-Issued: 2026-03-06 18:24:00+00:00
-Selection Code: QMRXX
-Location: APA
-Effective Start: 2026-03-06 18:24:00+00:00
-Effective End: 2026-03-09 18:24:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 18:24:00+00:00
-ICAO Location: KAPA
-Text: A0956/26 NOTAMC A0954/26 
-Q) KZDV/QMRXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603061824
-E)  APA RWY 35R FICON 5/5/5 100 PCT 1/8IN SLUSH OBS AT 2603061755.
-CANCELED
-================================================================================
-ID: NOTAM_1_80294132
-Number: A1766/26
-Type: NotamType.C
-Issued: 2026-03-06 18:31:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-06 18:31:00+00:00
-Effective End: 2026-03-09 18:31:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 18:31:00+00:00
-ICAO Location: KDEN
-Text: A1766/26 NOTAMC A1756/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603061831
-E)  DEN RWY 34R FICON 5/5/5 25 PCT 1/8IN SLUSH AND 75 PCT WET DEICED
-CANCELED
-================================================================================
-ID: NOTAM_1_80294380
-Number: A0572/26
-Type: NotamType.C
-Issued: 2026-03-06 18:52:00+00:00
-Selection Code: QMRXX
-Location: BJC
-Effective Start: 2026-03-06 18:52:00+00:00
-Effective End: 2026-03-09 18:52:00+00:00
-Classification: Classification.INTL
-Account ID: KBJC
-Last Updated: 2026-03-06 18:52:00+00:00
-ICAO Location: KBJC
-Text: A0572/26 NOTAMC A0565/26 
-Q) KZDV/QMRXX////000/999/3955N10507W005 
-A) KBJC
-B) 2603061852
-E)  BJC RWY 30R FICON 3/3/3 100 PCT 1/4IN WET SN OBS AT 2603061724.
-CANCELED
-================================================================================
-ID: NOTAM_1_80294392
-Number: A1767/26
-Type: NotamType.C
-Issued: 2026-03-06 18:52:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-06 18:52:00+00:00
-Effective End: 2026-03-09 18:52:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 18:53:00+00:00
-ICAO Location: KDEN
-Text: A1767/26 NOTAMC A1764/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603061852
-E)  DEN RWY 25 FICON 5/5/5 25 PCT 1/8IN SLUSH AND 75 PCT WET DEICED
-CANCELED
-================================================================================
-ID: NOTAM_1_80294408
-Number: A0573/26
-Type: NotamType.C
-Issued: 2026-03-06 18:53:00+00:00
-Selection Code: QMNXX
-Location: BJC
-Effective Start: 2026-03-06 18:53:00+00:00
-Effective End: 2026-03-09 18:53:00+00:00
-Classification: Classification.INTL
-Account ID: KBJC
-Last Updated: 2026-03-06 18:53:00+00:00
-ICAO Location: KBJC
-Text: A0573/26 NOTAMC A0570/26 
-Q) KZDV/QMNXX////000/999/3955N10507W005 
-A) KBJC
-B) 2603061853
-E)  BJC APRON ALL FICON 1/4IN WET SN OBS AT 2603061744.
-CANCELED
-================================================================================
-ID: NOTAM_1_80294409
-Number: A0574/26
-Type: NotamType.C
-Issued: 2026-03-06 18:53:00+00:00
-Selection Code: QMXXX
-Location: BJC
-Effective Start: 2026-03-06 18:53:00+00:00
-Effective End: 2026-03-09 18:53:00+00:00
-Classification: Classification.INTL
-Account ID: KBJC
-Last Updated: 2026-03-06 18:53:00+00:00
-ICAO Location: KBJC
-Text: A0574/26 NOTAMC A0569/26 
-Q) KZDV/QMXXX////000/999/3955N10507W005 
-A) KBJC
-B) 2603061853
-E)  BJC TWY ALL FICON 1/4IN WET SN OBS AT 2603061744.
-CANCELED
-================================================================================
-ID: NOTAM_1_80294517
-Number: A0957/26
-Type: NotamType.C
-Issued: 2026-03-06 19:03:00+00:00
-Selection Code: QMNXX
-Location: APA
-Effective Start: 2026-03-06 19:03:00+00:00
-Effective End: 2026-03-09 19:03:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 19:03:00+00:00
-ICAO Location: KAPA
-Text: A0957/26 NOTAMC A0947/26 
-Q) KZDV/QMNXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603061903
-E)  APA APRON ALL FICON 1/4IN SLUSH OBS AT 2603061653.
-CANCELED
-================================================================================
-ID: NOTAM_1_80294599
-Number: A1768/26
-Type: NotamType.C
-Issued: 2026-03-06 19:09:00+00:00
-Selection Code: QMNXX
-Location: DEN
-Effective Start: 2026-03-06 19:09:00+00:00
-Effective End: 2026-03-09 19:09:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 19:09:00+00:00
-ICAO Location: KDEN
-Text: A1768/26 NOTAMC A1733/26 
-Q) KZDV/QMNXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603061909
-E)  DEN APRON ALL FICON WET OBS AT 2603061459.
-CANCELED
-================================================================================
-ID: NOTAM_1_80294669
-Number: A0959/26
-Type: NotamType.C
-Issued: 2026-03-06 19:14:00+00:00
-Selection Code: QMXXX
-Location: APA
-Effective Start: 2026-03-06 19:14:00+00:00
-Effective End: 2026-03-09 19:14:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 19:14:00+00:00
-ICAO Location: KAPA
-Text: A0959/26 NOTAMC A0955/26 
-Q) KZDV/QMXXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603061914
-E)  APA TWY A FICON 1/8IN SLUSH BA GOOD TO MEDIUM OBS AT 2603061759.
-CANCELED
-================================================================================
-ID: NOTAM_1_80294716
-Number: A0960/26
-Type: NotamType.C
-Issued: 2026-03-06 19:17:00+00:00
-Selection Code: QMRXX
-Location: APA
-Effective Start: 2026-03-06 19:17:00+00:00
-Effective End: 2026-03-09 19:17:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 19:17:00+00:00
-ICAO Location: KAPA
-Text: A0960/26 NOTAMC A0958/26 
-Q) KZDV/QMRXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603061917
-E)  APA RWY 35R FICON 5/5/5 100 PCT 1/8IN SLUSH OBS AT 2603061820.
-CANCELED
-================================================================================
-ID: NOTAM_1_80295521
-Number: A0964/26
-Type: NotamType.C
-Issued: 2026-03-06 20:16:00+00:00
-Selection Code: QMRXX
-Location: APA
-Effective Start: 2026-03-06 20:16:00+00:00
-Effective End: 2026-03-09 20:16:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 20:16:00+00:00
-ICAO Location: KAPA
-Text: A0964/26 NOTAMC A0963/26 
-Q) KZDV/QMRXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603062016
-E)  APA RWY 35R FICON 5/5/5 50 PCT 1/8IN SLUSH OBS AT 2603061916.
-CANCELED
-================================================================================
-ID: NOTAM_1_80295589
-Number: A0965/26
-Type: NotamType.C
-Issued: 2026-03-06 20:19:00+00:00
-Selection Code: QMXXX
-Location: APA
-Effective Start: 2026-03-06 20:19:00+00:00
-Effective End: 2026-03-09 20:19:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 20:19:00+00:00
-ICAO Location: KAPA
-Text: A0965/26 NOTAMC A0962/26 
-Q) KZDV/QMXXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603062019
-E)  APA TWY A FICON 1/8IN SLUSH BA GOOD TO MEDIUM OBS AT 2603061904.
-CANCELED
-================================================================================
-ID: NOTAM_1_80295710
-Number: A1773/26
-Type: NotamType.C
-Issued: 2026-03-06 20:26:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-06 20:26:00+00:00
-Effective End: 2026-03-09 20:26:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 20:26:00+00:00
-ICAO Location: KDEN
-Text: A1773/26 NOTAMC A1769/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603062026
-E)  DEN RWY 34R FICON 5/5/5 70 PCT 1/8IN SLUSH AND 30 PCT WET DEICED
-CANCELED
-================================================================================
-ID: NOTAM_1_80295733
-Number: A1774/26
-Type: NotamType.C
-Issued: 2026-03-06 20:27:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-06 20:27:00+00:00
-Effective End: 2026-03-09 20:27:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 20:27:00+00:00
-ICAO Location: KDEN
-Text: A1774/26 NOTAMC A1749/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603062027
-E)  DEN RWY 08 FICON 5/5/5 100 PCT WET DEICED LIQUID 80FT WID OBS AT
-CANCELED
-================================================================================
-ID: NOTAM_1_80295940
-Number: A1779/26
-Type: NotamType.C
-Issued: 2026-03-06 20:48:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-06 20:48:00+00:00
-Effective End: 2026-03-09 20:48:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 20:49:00+00:00
-ICAO Location: KDEN
-Text: A1779/26 NOTAMC A1744/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603062048
-E)  DEN RWY 35R FICON 5/5/5 100 PCT WET DEICED LIQUID 80FT WID OBS AT
-CANCELED
-================================================================================
-ID: NOTAM_1_80295955
-Number: A1780/26
-Type: NotamType.C
-Issued: 2026-03-06 20:49:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-06 20:49:00+00:00
-Effective End: 2026-03-09 20:49:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 20:49:00+00:00
-ICAO Location: KDEN
-Text: A1780/26 NOTAMC A1759/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603062049
-E)  DEN RWY 34L FICON 5/5/5 25 PCT 1/8IN SLUSH AND 75 PCT WET DEICED
-CANCELED
-================================================================================
-ID: NOTAM_1_80295996
-Number: A0579/26
-Type: NotamType.C
-Issued: 2026-03-06 20:53:00+00:00
-Selection Code: QMRXX
-Location: BJC
-Effective Start: 2026-03-06 20:53:00+00:00
-Effective End: 2026-03-09 20:53:00+00:00
-Classification: Classification.INTL
-Account ID: KBJC
-Last Updated: 2026-03-06 20:54:00+00:00
-ICAO Location: KBJC
-Text: A0579/26 NOTAMC A0576/26 
-Q) KZDV/QMRXX////000/999/3955N10507W005 
-A) KBJC
-B) 2603062053
-E)  BJC RWY 30R FICON 4/4/4 100 PCT 1/8IN WET SN OBS AT 2603061851.
-CANCELED
-================================================================================
-ID: NOTAM_1_80296006
-Number: A0580/26
-Type: NotamType.C
-Issued: 2026-03-06 20:55:00+00:00
-Selection Code: QMNXX
-Location: BJC
-Effective Start: 2026-03-06 20:55:00+00:00
-Effective End: 2026-03-09 20:55:00+00:00
-Classification: Classification.INTL
-Account ID: KBJC
-Last Updated: 2026-03-06 20:55:00+00:00
-ICAO Location: KBJC
-Text: A0580/26 NOTAMC A0577/26 
-Q) KZDV/QMNXX////000/999/3955N10507W005 
-A) KBJC
-B) 2603062055
-E)  BJC APRON ALL FICON 1/4IN WET SN OBS AT 2603061853.
-CANCELED
-================================================================================
-ID: NOTAM_1_80296016
-Number: A0581/26
-Type: NotamType.C
-Issued: 2026-03-06 20:56:00+00:00
-Selection Code: QMXXX
-Location: BJC
-Effective Start: 2026-03-06 20:56:00+00:00
-Effective End: 2026-03-09 20:56:00+00:00
-Classification: Classification.INTL
-Account ID: KBJC
-Last Updated: 2026-03-06 20:56:00+00:00
-ICAO Location: KBJC
-Text: A0581/26 NOTAMC A0578/26 
-Q) KZDV/QMXXX////000/999/3955N10507W005 
-A) KBJC
-B) 2603062056
-E)  BJC TWY ALL FICON 1/4IN WET SN OBS AT 2603061853.
-CANCELED
-================================================================================
-ID: NOTAM_1_80296127
-Number: A1784/26
-Type: NotamType.C
-Issued: 2026-03-06 21:07:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-06 21:07:00+00:00
-Effective End: 2026-03-09 21:07:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 21:07:00+00:00
-ICAO Location: KDEN
-Text: A1784/26 NOTAMC A1739/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603062107
-E)  DEN RWY 35L FICON 5/5/5 100 PCT WET DEICED LIQUID 80FT WID OBS AT
-CANCELED
-================================================================================
-ID: NOTAM_1_80296199
-Number: A1785/26
-Type: NotamType.C
-Issued: 2026-03-06 21:13:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-06 21:13:00+00:00
-Effective End: 2026-03-09 21:13:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 21:14:00+00:00
-ICAO Location: KDEN
-Text: A1785/26 NOTAMC A1770/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603062113
-E)  DEN RWY 25 FICON 5/5/5 50 PCT 1/8IN WET SN AND 50 PCT WET DEICED
-CANCELED
-================================================================================
-ID: NOTAM_1_80296474
-Number: A1788/26
-Type: NotamType.C
-Issued: 2026-03-06 21:45:00+00:00
-Selection Code: QMXXX
-Location: DEN
-Effective Start: 2026-03-06 21:45:00+00:00
-Effective End: 2026-03-09 21:45:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 21:45:00+00:00
-ICAO Location: KDEN
-Text: A1788/26 NOTAMC A1753/26 
-Q) KZDV/QMXXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603062145
-E)  DEN TWY ALL FICON 1/8IN SLUSH AND WET OBS AT 2603061650.
-CANCELED
-================================================================================
-ID: NOTAM_1_80296603
-Number: A0968/26
-Type: NotamType.C
-Issued: 2026-03-06 21:56:00+00:00
-Selection Code: QMRXX
-Location: APA
-Effective Start: 2026-03-06 21:56:00+00:00
-Effective End: 2026-03-09 21:56:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 21:56:00+00:00
-ICAO Location: KAPA
-Text: A0968/26 NOTAMC A0966/26 
-Q) KZDV/QMRXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603062156
-E)  APA RWY 35R FICON 5/5/5 50 PCT 1/8IN SLUSH OBS AT 2603062016.
-CANCELED
-================================================================================
-ID: NOTAM_1_80296706
-Number: A0970/26
-Type: NotamType.C
-Issued: 2026-03-06 22:04:00+00:00
-Selection Code: QMNXX
-Location: APA
-Effective Start: 2026-03-06 22:04:00+00:00
-Effective End: 2026-03-09 22:04:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 22:05:00+00:00
-ICAO Location: KAPA
-Text: A0970/26 NOTAMC A0961/26 
-Q) KZDV/QMNXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603062204
-E)  APA APRON ALL FICON PATCHY 1/8IN SLUSH OBS AT 2603061854.
-CANCELED
-================================================================================
-ID: NOTAM_1_80297434
-Number: A1792/26
-Type: NotamType.C
-Issued: 2026-03-06 23:18:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-06 23:18:00+00:00
-Effective End: 2026-03-09 23:18:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 23:18:00+00:00
-ICAO Location: KDEN
-Text: A1792/26 NOTAMC A1776/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603062318
-E)  DEN RWY 08 FICON 5/5/5 10 PCT 1/8IN SLUSH AND 90 PCT WET DEICED
-CANCELED
-================================================================================
-ID: NOTAM_1_80297498
-Number: A0585/26
-Type: NotamType.C
-Issued: 2026-03-06 23:27:00+00:00
-Selection Code: QMRXX
-Location: BJC
-Effective Start: 2026-03-06 23:27:00+00:00
-Effective End: 2026-03-09 23:27:00+00:00
-Classification: Classification.INTL
-Account ID: KBJC
-Last Updated: 2026-03-06 23:27:00+00:00
-ICAO Location: KBJC
-Text: A0585/26 NOTAMC A0582/26 
-Q) KZDV/QMRXX////000/999/3955N10507W005 
-A) KBJC
-B) 2603062327
-E)  BJC RWY 30R FICON 5/5/5 40 PCT 1/8IN WET SN OBS AT 2603062053.
-CANCELED
-================================================================================
-ID: NOTAM_1_80297555
-Number: A0972/26
-Type: NotamType.C
-Issued: 2026-03-06 23:31:00+00:00
-Selection Code: QMRXX
-Location: APA
-Effective Start: 2026-03-06 23:31:00+00:00
-Effective End: 2026-03-09 23:31:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 23:31:00+00:00
-ICAO Location: KAPA
-Text: A0972/26 NOTAMC A0969/26 
-Q) KZDV/QMRXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603062331
-E)  APA RWY 35R FICON 5/5/5 50 PCT 1/8IN SLUSH OBS AT 2603062156.
-CANCELED
-================================================================================
-ID: NOTAM_1_80297594
-Number: A1794/26
-Type: NotamType.C
-Issued: 2026-03-06 23:36:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-06 23:36:00+00:00
-Effective End: 2026-03-09 23:36:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 23:36:00+00:00
-ICAO Location: KDEN
-Text: A1794/26 NOTAMC A1775/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603062336
-E)  DEN RWY 34R FICON 5/5/5 50 PCT 1/8IN SLUSH AND 50 PCT WET DEICED
-CANCELED
-================================================================================
-ID: NOTAM_1_80297596
-Number: A0973/26
-Type: NotamType.C
-Issued: 2026-03-06 23:37:00+00:00
-Selection Code: QMXXX
-Location: APA
-Effective Start: 2026-03-06 23:37:00+00:00
-Effective End: 2026-03-09 23:37:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-06 23:37:00+00:00
-ICAO Location: KAPA
-Text: A0973/26 NOTAMC A0967/26 
-Q) KZDV/QMXXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603062337
-E)  APA TWY A FICON 1/8IN SLUSH BA GOOD TO MEDIUM OBS AT 2603062019.
-CANCELED
-================================================================================
-ID: NOTAM_1_80297657
-Number: A0587/26
-Type: NotamType.C
-Issued: 2026-03-06 23:44:00+00:00
-Selection Code: QMXXX
-Location: BJC
-Effective Start: 2026-03-06 23:44:00+00:00
-Effective End: 2026-03-09 23:44:00+00:00
-Classification: Classification.INTL
-Account ID: KBJC
-Last Updated: 2026-03-06 23:44:00+00:00
-ICAO Location: KBJC
-Text: A0587/26 NOTAMC A0584/26 
-Q) KZDV/QMXXX////000/999/3955N10507W005 
-A) KBJC
-B) 2603062344
-E)  BJC TWY ALL FICON PATCHY 1/4IN WET SN OBS AT 2603062056.
-CANCELED
-================================================================================
-ID: NOTAM_1_80297664
-Number: A0588/26
-Type: NotamType.C
-Issued: 2026-03-06 23:45:00+00:00
-Selection Code: QMXXX
-Location: BJC
-Effective Start: 2026-03-06 23:45:00+00:00
-Effective End: 2026-03-09 23:45:00+00:00
-Classification: Classification.INTL
-Account ID: KBJC
-Last Updated: 2026-03-06 23:45:00+00:00
-ICAO Location: KBJC
-Text: A0588/26 NOTAMC A0571/26 
-Q) KZDV/QMXXX////000/999/3955N10507W005 
-A) KBJC
-B) 2603062345
-E)  BJC TWY A2, A3, A4, A5, A6, E, G CLSD
-CANCELED
-================================================================================
-ID: NOTAM_1_80297735
-Number: A1796/26
-Type: NotamType.C
-Issued: 2026-03-06 23:51:00+00:00
-Selection Code: QMNXX
-Location: DEN
-Effective Start: 2026-03-06 23:51:00+00:00
-Effective End: 2026-03-09 23:51:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-06 23:51:00+00:00
-ICAO Location: KDEN
-Text: A1796/26 NOTAMC A1772/26 
-Q) KZDV/QMNXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603062351
-E)  DEN APRON ALL FICON PATCHY 3IN WATER AND WET OBS AT 2603061909.
-CANCELED
-================================================================================
-ID: NOTAM_1_80297932
-Number: A1798/26
-Type: NotamType.C
-Issued: 2026-03-07 00:12:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-07 00:12:00+00:00
-Effective End: 2026-03-10 00:12:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-07 00:13:00+00:00
-ICAO Location: KDEN
-Text: A1798/26 NOTAMC A1793/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603070012
-E)  DEN RWY 08 FICON 5/5/5 80 PCT 1/8IN SLUSH AND 20 PCT WET OBS AT
-CANCELED
-================================================================================
-ID: NOTAM_1_80298029
-Number: A1800/26
-Type: NotamType.C
-Issued: 2026-03-07 00:21:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-07 00:21:00+00:00
-Effective End: 2026-03-10 00:21:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-07 00:21:00+00:00
-ICAO Location: KDEN
-Text: A1800/26 NOTAMC A1795/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603070021
-E)  DEN RWY 34R FICON 5/5/5 50 PCT 1/8IN SLUSH AND 50 PCT WET DEICED
-CANCELED
-================================================================================
-ID: NOTAM_1_80298183
-Number: A1803/26
-Type: NotamType.C
-Issued: 2026-03-07 00:40:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-07 00:40:00+00:00
-Effective End: 2026-03-10 00:40:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-07 00:40:00+00:00
-ICAO Location: KDEN
-Text: A1803/26 NOTAMC A1786/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603070040
-E)  DEN RWY 35L FICON 5/5/5 10 PCT 1/8IN SLUSH AND 90 PCT WET DEICED
-CANCELED
-================================================================================
-ID: NOTAM_1_80298324
-Number: A0976/26
-Type: NotamType.C
-Issued: 2026-03-07 00:59:00+00:00
-Selection Code: QMRXX
-Location: APA
-Effective Start: 2026-03-07 00:59:00+00:00
-Effective End: 2026-03-10 00:59:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-07 00:59:00+00:00
-ICAO Location: KAPA
-Text: A0976/26 NOTAMC A0974/26 
-Q) KZDV/QMRXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603070059
-E)  APA RWY 35R FICON 5/5/5 100 PCT 1/8IN SLUSH DEICED LIQUID AND
-CANCELED
-================================================================================
-ID: NOTAM_1_80298332
-Number: A0977/26
-Type: NotamType.C
-Issued: 2026-03-07 01:00:00+00:00
-Selection Code: QMXXX
-Location: APA
-Effective Start: 2026-03-07 01:00:00+00:00
-Effective End: 2026-03-10 01:00:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-07 01:01:00+00:00
-ICAO Location: KAPA
-Text: A0977/26 NOTAMC A0975/26 
-Q) KZDV/QMXXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603070100
-E)  APA TWY A FICON 1/8IN SLUSH BA GOOD TO MEDIUM OBS AT 2603062336.
-CANCELED
-================================================================================
-ID: NOTAM_1_80298453
-Number: A1805/26
-Type: NotamType.C
-Issued: 2026-03-07 01:16:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-07 01:16:00+00:00
-Effective End: 2026-03-10 01:16:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-07 01:17:00+00:00
-ICAO Location: KDEN
-Text: A1805/26 NOTAMC A1781/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603070116
-E)  DEN RWY 35R FICON 5/5/5 10 PCT 1/8IN SLUSH AND 90 PCT WET DEICED
-CANCELED
-================================================================================
-ID: NOTAM_1_80298492
-Number: A1806/26
-Type: NotamType.C
-Issued: 2026-03-07 01:22:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-07 01:22:00+00:00
-Effective End: 2026-03-10 01:22:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-07 01:22:00+00:00
-ICAO Location: KDEN
-Text: A1806/26 NOTAMC A1782/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603070122
-E)  DEN RWY 34L FICON 5/5/5 25 PCT 1/8IN SLUSH AND 75 PCT WET, 50 PCT
-CANCELED
-================================================================================
-ID: NOTAM_1_80298521
-Number: A0980/26
-Type: NotamType.C
-Issued: 2026-03-07 01:26:00+00:00
-Selection Code: QMXXX
-Location: APA
-Effective Start: 2026-03-07 01:26:00+00:00
-Effective End: 2026-03-10 01:26:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-07 01:26:00+00:00
-ICAO Location: KAPA
-Text: A0980/26 NOTAMC A0979/26 
-Q) KZDV/QMXXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603070126
-E)  APA TWY A FICON 1/4IN WET SN BA GOOD TO MEDIUM OBS AT 2603070100.
-CANCELED
-================================================================================
-ID: NOTAM_1_80298562
-Number: A0982/26
-Type: NotamType.C
-Issued: 2026-03-07 01:32:00+00:00
-Selection Code: QMRXX
-Location: APA
-Effective Start: 2026-03-07 01:32:00+00:00
-Effective End: 2026-03-10 01:32:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-07 01:33:00+00:00
-ICAO Location: KAPA
-Text: A0982/26 NOTAMC A0978/26 
-Q) KZDV/QMRXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603070132
-E)  APA RWY 35R FICON 5/5/5 100 PCT 1/8IN WET SN DEICED LIQUID AND
-CANCELED
-================================================================================
-ID: NOTAM_1_80298631
-Number: A1810/26
-Type: NotamType.C
-Issued: 2026-03-07 01:41:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-07 01:41:00+00:00
-Effective End: 2026-03-10 01:41:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-07 01:41:00+00:00
-ICAO Location: KDEN
-Text: A1810/26 NOTAMC A1787/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603070141
-E)  DEN RWY 25 FICON 5/5/5 30 PCT 1/8IN SLUSH AND 70 PCT WET DEICED
-CANCELED
-================================================================================
-ID: NOTAM_1_80298637
-Number: A0984/26
-Type: NotamType.C
-Issued: 2026-03-07 01:42:00+00:00
-Selection Code: QMNXX
-Location: APA
-Effective Start: 2026-03-07 01:42:00+00:00
-Effective End: 2026-03-10 01:42:00+00:00
-Classification: Classification.INTL
-Account ID: KAPA
-Last Updated: 2026-03-07 01:42:00+00:00
-ICAO Location: KAPA
-Text: A0984/26 NOTAMC A0971/26 
-Q) KZDV/QMNXX////000/999/3934N10451W005 
-A) KAPA
-B) 2603070142
-E)  APA APRON ALL FICON 1/4IN SLUSH OBS AT 2603062204.
-CANCELED
-================================================================================
-ID: NOTAM_1_80298819
-Number: A1812/26
-Type: NotamType.C
-Issued: 2026-03-07 02:05:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-07 02:05:00+00:00
-Effective End: 2026-03-10 02:05:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-07 02:06:00+00:00
-ICAO Location: KDEN
-Text: A1812/26 NOTAMC A1811/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603070205
-E)  DEN RWY 25 FICON 5/5/5 30 PCT 1/8IN SLUSH AND 70 PCT WET DEICED
-CANCELED
-================================================================================
-ID: NOTAM_1_80299047
-Number: A1814/26
-Type: NotamType.C
-Issued: 2026-03-07 02:40:00+00:00
-Selection Code: QMNXX
-Location: DEN
-Effective Start: 2026-03-07 02:40:00+00:00
-Effective End: 2026-03-10 02:40:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-07 02:40:00+00:00
-ICAO Location: KDEN
-Text: A1814/26 NOTAMC A1802/26 
-Q) KZDV/QMNXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603070239
-E)  DEN APRON C PAD SPOT 5 CLSD
-CANCELED
-================================================================================
-ID: NOTAM_1_80299145
-Number: A1816/26
-Type: NotamType.C
-Issued: 2026-03-07 02:51:00+00:00
-Selection Code: QMRXX
-Location: DEN
-Effective Start: 2026-03-07 02:51:00+00:00
-Effective End: 2026-03-10 02:51:00+00:00
-Classification: Classification.INTL
-Account ID: KDEN
-Last Updated: 2026-03-07 02:51:00+00:00
-ICAO Location: KDEN
-Text: A1816/26 NOTAMC A1804/26 
-Q) KZDV/QMRXX////000/999/3952N10440W005 
-A) KDEN
-B) 2603070251
-E)  DEN RWY 35L FICON 5/5/4 100 PCT 1/8IN SLUSH DEICED LIQUID 80FT
-WID
 CANCELED
 ================================================================================
 ID: NOTAM_1_80299324
@@ -13539,5 +12352,405 @@ Q) KZDV/QMNXX////000/999/3934N10451W005
 A) KAPA
 B) 2603090213
 E)  APA APRON AREA G RAMP FICON 12IN WINDROWS OBS AT 2603081906.
+CANCELED
+================================================================================
+ID: NOTAM_1_80317118
+Number: A1940/26
+Type: NotamType.C
+Issued: 2026-03-09 05:53:00+00:00
+Selection Code: QMXXX
+Location: DEN
+Effective Start: 2026-03-09 05:53:00+00:00
+Effective End: 2026-03-12 05:53:00+00:00
+Classification: Classification.INTL
+Account ID: KDEN
+Last Updated: 2026-03-09 05:53:00+00:00
+ICAO Location: KDEN
+Text: A1940/26 NOTAMC A1934/26 
+Q) KZDV/QMXXX////000/999/3952N10440W005 
+A) KDEN
+B) 2603090553
+E)  DEN TWY H BTN C PAD SPOT 3 AND C PAD SPOT 5 CLSD
+CANCELED
+================================================================================
+ID: NOTAM_1_80317119
+Number: A1941/26
+Type: NotamType.C
+Issued: 2026-03-09 05:53:00+00:00
+Selection Code: QMXXX
+Location: DEN
+Effective Start: 2026-03-09 05:53:00+00:00
+Effective End: 2026-03-12 05:53:00+00:00
+Classification: Classification.INTL
+Account ID: KDEN
+Last Updated: 2026-03-09 05:53:00+00:00
+ICAO Location: KDEN
+Text: A1941/26 NOTAMC A1933/26 
+Q) KZDV/QMXXX////000/999/3952N10440W005 
+A) KDEN
+B) 2603090553
+E)  DEN TWY H BTN C PAD SPOT 5 AND J PAD SPOT 3 CLSD
+CANCELED
+================================================================================
+ID: NOTAM_1_80317130
+Number: A1942/26
+Type: NotamType.C
+Issued: 2026-03-09 05:55:00+00:00
+Selection Code: QMNXX
+Location: DEN
+Effective Start: 2026-03-09 05:55:00+00:00
+Effective End: 2026-03-12 05:55:00+00:00
+Classification: Classification.INTL
+Account ID: KDEN
+Last Updated: 2026-03-09 05:56:00+00:00
+ICAO Location: KDEN
+Text: A1942/26 NOTAMC A1935/26 
+Q) KZDV/QMNXX////000/999/3952N10440W005 
+A) KDEN
+B) 2603090555
+E)  DEN APRON DEICING PAD J BTN SPOT 2 AND SPOT 4 CLSD
+CANCELED
+================================================================================
+ID: NOTAM_1_80317131
+Number: A1943/26
+Type: NotamType.C
+Issued: 2026-03-09 05:55:00+00:00
+Selection Code: QMNXX
+Location: DEN
+Effective Start: 2026-03-09 05:55:00+00:00
+Effective End: 2026-03-12 05:55:00+00:00
+Classification: Classification.INTL
+Account ID: KDEN
+Last Updated: 2026-03-09 05:56:00+00:00
+ICAO Location: KDEN
+Text: A1943/26 NOTAMC A1937/26 
+Q) KZDV/QMNXX////000/999/3952N10440W005 
+A) KDEN
+B) 2603090555
+E)  DEN APRON DEICING PAD C BTN SPOT 3 AND SPOT 5 CLSD
+CANCELED
+================================================================================
+ID: NOTAM_1_80317324
+Number: A1073/26
+Type: NotamType.C
+Issued: 2026-03-09 06:29:00+00:00
+Selection Code: QMNXX
+Location: APA
+Effective Start: 2026-03-09 06:29:00+00:00
+Effective End: 2026-03-12 06:29:00+00:00
+Classification: Classification.INTL
+Account ID: KAPA
+Last Updated: 2026-03-09 06:30:00+00:00
+ICAO Location: KAPA
+Text: A1073/26 NOTAMC A1071/26 
+Q) KZDV/QMNXX////000/999/3934N10451W005 
+A) KAPA
+B) 2603090629
+E)  APA APRON AREA H RAMP FICON 3IN WINDROWS OBS AT 2603090212.
+CANCELED
+================================================================================
+ID: NOTAM_1_80317329
+Number: A1074/26
+Type: NotamType.C
+Issued: 2026-03-09 06:30:00+00:00
+Selection Code: QMNXX
+Location: APA
+Effective Start: 2026-03-09 06:30:00+00:00
+Effective End: 2026-03-12 06:30:00+00:00
+Classification: Classification.INTL
+Account ID: KAPA
+Last Updated: 2026-03-09 06:31:00+00:00
+ICAO Location: KAPA
+Text: A1074/26 NOTAMC A1072/26 
+Q) KZDV/QMNXX////000/999/3934N10451W005 
+A) KAPA
+B) 2603090630
+E)  APA APRON AREA G RAMP FICON 3IN WINDROWS OBS AT 2603090213.
+CANCELED
+================================================================================
+ID: NOTAM_1_80318669
+Number: A1946/26
+Type: NotamType.C
+Issued: 2026-03-09 09:53:00+00:00
+Selection Code: QMXXX
+Location: DEN
+Effective Start: 2026-03-09 09:53:00+00:00
+Effective End: 2026-03-12 09:53:00+00:00
+Classification: Classification.INTL
+Account ID: KDEN
+Last Updated: 2026-03-09 09:54:00+00:00
+ICAO Location: KDEN
+Text: A1946/26 NOTAMC A1939/26 
+Q) KZDV/QMXXX////000/999/3952N10440W005 
+A) KDEN
+B) 2603090953
+E)  DEN TWY F1, F2, F3, F4, F6, F8, F9, F10, F12, TWY WC BTN TWY D
+AND
+CANCELED
+================================================================================
+ID: NOTAM_1_80319074
+Number: A1947/26
+Type: NotamType.C
+Issued: 2026-03-09 10:45:00+00:00
+Selection Code: QMXXX
+Location: DEN
+Effective Start: 2026-03-09 10:45:00+00:00
+Effective End: 2026-03-12 10:45:00+00:00
+Classification: Classification.INTL
+Account ID: KDEN
+Last Updated: 2026-03-09 10:45:00+00:00
+ICAO Location: KDEN
+Text: A1947/26 NOTAMC A1928/26 
+Q) KZDV/QMXXX////000/999/3952N10440W005 
+A) KDEN
+B) 2603091045
+E)  DEN TWY ALL FICON 5IN SNOWBANKS OBS AT 2603081748.
+CANCELED
+================================================================================
+ID: NOTAM_1_80319939
+Number: A1079/26
+Type: NotamType.C
+Issued: 2026-03-09 12:08:00+00:00
+Selection Code: QMNXX
+Location: APA
+Effective Start: 2026-03-09 12:08:00+00:00
+Effective End: 2026-03-12 12:08:00+00:00
+Classification: Classification.INTL
+Account ID: KAPA
+Last Updated: 2026-03-09 12:08:00+00:00
+ICAO Location: KAPA
+Text: A1079/26 NOTAMC A1076/26 
+Q) KZDV/QMNXX////000/999/3934N10451W005 
+A) KAPA
+B) 2603091208
+E)  APA APRON AREA G RAMP FICON 3IN WINDROWS OBS AT 2603090630.
+CANCELED
+================================================================================
+ID: NOTAM_1_80319944
+Number: A1080/26
+Type: NotamType.C
+Issued: 2026-03-09 12:08:00+00:00
+Selection Code: QMNXX
+Location: APA
+Effective Start: 2026-03-09 12:08:00+00:00
+Effective End: 2026-03-12 12:08:00+00:00
+Classification: Classification.INTL
+Account ID: KAPA
+Last Updated: 2026-03-09 12:09:00+00:00
+ICAO Location: KAPA
+Text: A1080/26 NOTAMC A1075/26 
+Q) KZDV/QMNXX////000/999/3934N10451W005 
+A) KAPA
+B) 2603091208
+E)  APA APRON AREA H RAMP FICON 3IN WINDROWS OBS AT 2603090629.
+CANCELED
+================================================================================
+ID: NOTAM_1_80322495
+Number: A1085/26
+Type: NotamType.C
+Issued: 2026-03-09 14:52:00+00:00
+Selection Code: QLIXX
+Location: APA
+Effective Start: 2026-03-09 14:52:00+00:00
+Effective End: 2026-03-12 14:52:00+00:00
+Classification: Classification.INTL
+Account ID: KAPA
+Last Updated: 2026-03-09 14:53:00+00:00
+ICAO Location: KAPA
+Text: A1085/26 NOTAMC A1078/26 
+Q) KZDV/QLIXX////000/999/3934N10451W005 
+A) KAPA
+B) 2603091452
+E)  APA RWY 35L RWY END ID LGT U/S
+CANCELED
+================================================================================
+ID: NOTAM_1_80323618
+Number: A1952/26
+Type: NotamType.C
+Issued: 2026-03-09 16:18:00+00:00
+Selection Code: QMXXX
+Location: DEN
+Effective Start: 2026-03-09 16:18:00+00:00
+Effective End: 2026-03-12 16:18:00+00:00
+Classification: Classification.INTL
+Account ID: KDEN
+Last Updated: 2026-03-09 16:18:00+00:00
+ICAO Location: KDEN
+Text: A1952/26 NOTAMC A1949/26 
+Q) KZDV/QMXXX////000/999/3952N10440W005 
+A) KDEN
+B) 2603091618
+E)  DEN TWY M9 BTN RWY 17R/35L AND TWY M CLSD
+CANCELED
+================================================================================
+ID: NOTAM_1_80324056
+Number: A1955/26
+Type: NotamType.C
+Issued: 2026-03-09 16:57:00+00:00
+Selection Code: QNNXX
+Location: DEN
+Effective Start: 2026-03-09 16:57:00+00:00
+Effective End: 2026-03-12 16:57:00+00:00
+Classification: Classification.INTL
+Account ID: KDEN
+Last Updated: 2026-03-09 16:57:00+00:00
+ICAO Location: KDEN
+Text: A1955/26 NOTAMC A1755/26 
+Q) KZDV/QNNXX////000/999/3954N10437W005 
+A) KDEN
+B) 2603091657
+E)  /DVV/ NAV TACAN U/S
+CANCELED
+================================================================================
+ID: NOTAM_1_80324124
+Number: A1087/26
+Type: NotamType.C
+Issued: 2026-03-09 17:02:00+00:00
+Selection Code: QLPXX
+Location: APA
+Effective Start: 2026-03-09 17:02:00+00:00
+Effective End: 2026-03-12 17:02:00+00:00
+Classification: Classification.INTL
+Account ID: KAPA
+Last Updated: 2026-03-09 17:02:00+00:00
+ICAO Location: KAPA
+Text: A1087/26 NOTAMC A1064/26 
+Q) KZDV/QLPXX////000/999/3934N10451W005 
+A) KAPA
+B) 2603091702
+E)  APA RWY 10 PAPI U/S
+CANCELED
+================================================================================
+ID: NOTAM_1_80324994
+Number: A1956/26
+Type: NotamType.C
+Issued: 2026-03-09 18:06:00+00:00
+Selection Code: QMXXX
+Location: DEN
+Effective Start: 2026-03-09 18:06:00+00:00
+Effective End: 2026-03-12 18:06:00+00:00
+Classification: Classification.INTL
+Account ID: KDEN
+Last Updated: 2026-03-09 18:06:00+00:00
+ICAO Location: KDEN
+Text: A1956/26 NOTAMC A1954/26 
+Q) KZDV/QMXXX////000/999/3952N10440W005 
+A) KDEN
+B) 2603091806
+E)  DEN TWY EE, TWY M BTN TWY DS AND TWY Z, TWY P7 BTN TWY ED AND TWY
+CANCELED
+================================================================================
+ID: NOTAM_1_80325056
+Number: A1957/26
+Type: NotamType.C
+Issued: 2026-03-09 18:12:00+00:00
+Selection Code: QMXXX
+Location: DEN
+Effective Start: 2026-03-09 18:12:00+00:00
+Effective End: 2026-03-12 18:12:00+00:00
+Classification: Classification.INTL
+Account ID: KDEN
+Last Updated: 2026-03-09 18:13:00+00:00
+ICAO Location: KDEN
+Text: A1957/26 NOTAMC A1953/26 
+Q) KZDV/QMXXX////000/999/3952N10440W005 
+A) KDEN
+B) 2603091812
+E)  DEN TWY M5 BTN RWY 17R/35L AND TWY M CLSD
+CANCELED
+================================================================================
+ID: NOTAM_1_80325466
+Number: A1962/26
+Type: NotamType.C
+Issued: 2026-03-09 19:00:00+00:00
+Selection Code: QMNXX
+Location: DEN
+Effective Start: 2026-03-09 19:00:00+00:00
+Effective End: 2026-03-12 19:00:00+00:00
+Classification: Classification.INTL
+Account ID: KDEN
+Last Updated: 2026-03-09 19:01:00+00:00
+ICAO Location: KDEN
+Text: A1962/26 NOTAMC A1931/26 
+Q) KZDV/QMNXX////000/999/3952N10440W005 
+A) KDEN
+B) 2603091900
+E)  DEN APRON ALL FICON PATCHY 3IN WATER OBS AT 2603081906.
+CANCELED
+================================================================================
+ID: NOTAM_1_80325602
+Number: A1963/26
+Type: NotamType.C
+Issued: 2026-03-09 19:16:00+00:00
+Selection Code: QMXXX
+Location: DEN
+Effective Start: 2026-03-09 19:16:00+00:00
+Effective End: 2026-03-12 19:16:00+00:00
+Classification: Classification.INTL
+Account ID: KDEN
+Last Updated: 2026-03-09 19:16:00+00:00
+ICAO Location: KDEN
+Text: A1963/26 NOTAMC A1958/26 
+Q) KZDV/QMXXX////000/999/3952N10440W005 
+A) KDEN
+B) 2603091916
+E)  DEN TWY M BTN TWY L1 AND TWY EA CLSD
+CANCELED
+================================================================================
+ID: NOTAM_1_80325797
+Number: A0607/26
+Type: NotamType.C
+Issued: 2026-03-09 19:40:00+00:00
+Selection Code: QIGXX
+Location: BJC
+Effective Start: 2026-03-09 19:40:00+00:00
+Effective End: 2026-03-12 19:40:00+00:00
+Classification: Classification.INTL
+Account ID: KBJC
+Last Updated: 2026-03-09 19:40:00+00:00
+ICAO Location: KBJC
+Text: A0607/26 NOTAMC A0575/26 
+Q) KZDV/QIGXX////000/999/3955N10507W005 
+A) KBJC
+B) 2603091940
+E)  BJC NAV ILS RWY 30R GP U/S
+CANCELED
+================================================================================
+ID: NOTAM_1_80328104
+Number: A1089/26
+Type: NotamType.C
+Issued: 2026-03-10 00:54:00+00:00
+Selection Code: QMNXX
+Location: APA
+Effective Start: 2026-03-10 00:54:00+00:00
+Effective End: 2026-03-13 00:54:00+00:00
+Classification: Classification.INTL
+Account ID: KAPA
+Last Updated: 2026-03-10 00:54:00+00:00
+ICAO Location: KAPA
+Text: A1089/26 NOTAMC A1081/26 
+Q) KZDV/QMNXX////000/999/3934N10451W005 
+A) KAPA
+B) 2603100054
+E)  APA APRON AREA G RAMP FICON 3IN WINDROWS OBS AT 2603091207.
+CANCELED
+================================================================================
+ID: NOTAM_1_80328108
+Number: A1090/26
+Type: NotamType.C
+Issued: 2026-03-10 00:54:00+00:00
+Selection Code: QMNXX
+Location: APA
+Effective Start: 2026-03-10 00:54:00+00:00
+Effective End: 2026-03-13 00:54:00+00:00
+Classification: Classification.INTL
+Account ID: KAPA
+Last Updated: 2026-03-10 00:55:00+00:00
+ICAO Location: KAPA
+Text: A1090/26 NOTAMC A1082/26 
+Q) KZDV/QMNXX////000/999/3934N10451W005 
+A) KAPA
+B) 2603100054
+E)  APA APRON AREA H RAMP FICON 3IN WINDROWS OBS AT 2603091208.
 CANCELED
 ================================================================================

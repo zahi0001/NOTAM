@@ -98,7 +98,7 @@ def main():
 
     # Replace with:
     printer = NotamPrinter()
-    output_file = printer.save_to_file(sorted_notams, filepath="fetchedNotams.txt")
+    output_file = printer.save_to_file(sorted_notams, filepath=f"data/raw/{departure_airport_code}_{destination_airport_code}.txt")
     logger.info(f"Saved {len(sorted_notams)} NOTAMs to {output_file}")
 
 if __name__ == "__main__":

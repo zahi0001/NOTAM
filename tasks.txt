@@ -1,5 +1,5 @@
-- [ CAP01 ]: Set up the repository and run the code locally to make sure the code runs.
-- [ CAP02 ]: Repository structure. Make the necessary folders like this:
+- CAP01 [x]: Set up the repository and run the code locally to make sure the code runs.
+- CAP02 [x]: Repository structure. Make the necessary folders like this:
                         ml/
                             __init__.py
                             label_generator.py      ← cleaned-up LLM scorer
@@ -18,4 +18,6 @@
                             labeled/                ← LLM-generated labels land here
                             models/                 ← saved trained models
 
-- [ CAP03 ]:
+- CAP03 [x]: Install dependencies needed. Python-Version => 3.11.13 (why? it just makes sense for the combination of libraries needed.)
+- CAP04 [x]: High level understanding of the ML features (Details are figured out as we go!)
+- CAP05 [x]: Confirm I have enough data, and I have them properly set up and ready for label generator.

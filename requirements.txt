@@ -27,3 +27,14 @@ typing_extensions==4.12.2
 tzdata==2025.2
 urllib3==2.3.0
 xyzservices==2025.1.0
+## libraries needed for the ML Part: (installed in my python3.11.13)
+scikit-learn
+sentence-transformers
+pandas
+numpy
+matplotlib
+seaborn
+joblib
+jupyter
+python-dotenv
+requests
