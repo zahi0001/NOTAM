@@ -53,9 +53,10 @@ EMBEDDINGS_CACHE_PATH   = MODELS_DIR / "embeddings_cache.npy"   # Cached sentenc
 
 ANTHROPIC_MODEL     = "claude-sonnet-4-20250514"
 MAX_TOKENS          = 300       # Scores are short JSON — no need for more
-API_DELAY_SECONDS   = 0.25      # Pause between API calls to avoid rate limiting
-MAX_RETRIES         = 3         # Number of retry attempts on API failure
-RETRY_BACKOFF       = 2.0       # Exponential backoff multiplier
+API_DELAY_SECONDS   = 0.1      # Pause between API calls to avoid rate limiting
+MAX_RETRIES         = 5         # Number of retry attempts on API failure
+RETRY_BACKOFF       = 3.0       # Exponential backoff multiplier
+LLM_TEMPERATURE     = 0.1       # Less creativity more Determinism
 
 # Criticality labels — order matters for sorting (most to least critical)
 CRITICALITY_LEVELS  = ["HIGH", "MEDIUM", "LOW", "INFO"]
