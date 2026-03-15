@@ -39,3 +39,4 @@ jupyter
 python-dotenv
 requests
 aiohttp
+umap-learn

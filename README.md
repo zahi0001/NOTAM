@@ -44,23 +44,15 @@ This project uses airport data from the FAA's Airports and Other Landing Facilit
 ## :Machine_Learning: (In Progress...)
 "I built three increasingly sophisticated approaches to the same problem and compared them."
 
-Labelling of data will be done via an LLM label generator. (weak supervision, did it work?)
+Labelling of data will be done via an LLM label generator. (weak supervision, did it work? Yes it did)
 
 Layer 1 — Baseline: TF-IDF + Logistic Regression
-A classical NLP classifier. Fast to build, easy to explain, and gives you a performance benchmark. This is your "simple model" that everything else is compared against.
+A classical NLP classifier. Fast to build, easy to explain, and gives you a performance benchmark.
 
 Layer 2 — Better Features: Sentence Embeddings + Random Forest
-Use a pretrained sentence-transformers model to turn NOTAM text into semantic vectors, then classify with Random Forest. This shows you understand that raw text → numbers is a design choice, not just a given.
+Use a pretrained sentence-transformers model to turn NOTAM text into semantic vectors, then classify with Random Forest.
 
 Layer 3 — Anomaly Detection: Isolation Forest
-On top of the embeddings from Layer 2, flag NOTAMs that are statistically unusual — ones that don't cluster well with any known category. This is your "bonus" component that makes the project feel complete.
+On top of the embeddings from Layer 2, flag NOTAMs that are statistically unusual — ones that don't cluster well with any known category.
 
-## :telephone_receiver: Contact
-
-- [Brian Schettler](mailto:tanminivan@gmail.com) - Mentor
-- [Mounir Zahidi](mailto:Mounir.Zahidi-1@ou.edu) - Project Manager
-- [Tonye Harcourt](mailto:tharcourt05@ou.edu) - Scrum Master
-- [Jacob Dearborn](mailto:jtdear4@ou.edu) - Scrum Master
-- [Donahue Avila](mailto:Donahue.Avila-1@ou.edu) - Scrum Master
-- [Daisy Borja](mailto:Daisy.Borja-1@ou.edu) - Scrum Master
 
